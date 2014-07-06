@@ -1,0 +1,7 @@
+== Upgrading Docs
+:type: link
+:url: http://docs.neo4j.org/chunked/milestone/deployment-upgrading.html
+
+
+[INTRO]
+Upgrading from a previous version? Make sure to read the upgrading notes

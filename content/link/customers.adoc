@@ -1,0 +1,8 @@
+== Customers
+:type: link
+:url: http://www.neotechnology.com/customers/
+image::http://www.neotechnology.com/wp-content/uploads/2012/11/neo4j_customers.png[Customers,role=thumbnail]
+
+
+[INTRO]
+From the Fortune 500 to cutting edge startups, our customers depend on Neo4j for insanely high performance queries on massive amounts of connected data. Graphs Are Everywhere!

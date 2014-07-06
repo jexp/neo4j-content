@@ -1,0 +1,7 @@
+== Maven Dependency
+:type: article
+:path: /c/article/maven
+
+function (params) {
+                return render.include("download/_embedded_dependency", params);
+            }

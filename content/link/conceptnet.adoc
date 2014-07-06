@@ -1,0 +1,12 @@
+== ConceptNet 5 (243MB)
+:type: link
+:path: /c/link/conceptnet
+:author: maxdemarzi
+:url: http://maxdemarzi.com/2013/05/13/knowledge-bases-in-neo4j/
+:github: https://github.com/maxdemarzi/neo_concept
+image::http://maxdemarzidotcom.files.wordpress.com/2013/05/cnet5promo.png?w=128&h=421[ConceptNet 5 (243MB),role=img]
+:actionText: Know the world
+
+
+[INTRO]
+ConceptNet is a semantic network built from nodes representing concepts, and labeled relationships between them. https://dl.dropboxusercontent.com/u/57740873/conceptnet.graph.db.zip[<span class='icon-download-alt'>&nbsp;</span>]

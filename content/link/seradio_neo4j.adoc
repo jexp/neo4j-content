@@ -1,0 +1,8 @@
+== Software Engineering Radio Podcast on Neo4j and Graph Databases
+:type: link
+:url: http://www.se-radio.net/2013/05/episode-194-michael-hunger/
+image::https://si0.twimg.com/profile_images/61815563/se_bigger.JPG[Software Engineering Radio Podcast on Neo4j and Graph Databases,role=thumbnail]
+
+
+[INTRO]
+Robert Blumen interviews Michael Hunger about the graph data model, graph databases and Neo4j

@@ -1,0 +1,10 @@
+== Advanced Cypher Webinar
+:type: video
+:path: /c/video/cypher_advanced
+:author: mesirii
+image::http://b.vimeocdn.com/ts/347/239/347239632_640.jpg[Advanced Cypher Webinar,role=thumbnail]
+:src: http://player.vimeo.com/video/50389825
+
+
+[INTRO]
+An introduction to cypher with some advanced queries sprinkled in between.

@@ -1,0 +1,8 @@
+== Polymap
+:type: app
+:path: /c/app/polymap
+:author: Falko Bräutigam
+:url: http://polymap.org/polymap3/wiki/Screenshots
+image::http://assets.neo4j.org/img/apps/polymap.png[Polymap,role=logo]
+
+A web based GIS system running on top of OpenStreetMap and other datasources, integrating with Neo4j Spatial.

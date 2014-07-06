@@ -1,0 +1,21 @@
+== Data Modeling with Graphs
+:type: page
+:path: /develop/modeling
+:featured: [object Object],function () {
+        var video = exports.content.videos[id.toString()];
+        if (!video) console.log("video",id,false);
+        return video;
+    }
+:related: [object Object],try,[object Object],[object Object],[object Object],function () {
+        var video = exports.content.videos[id.toString()];
+        if (!video) console.log("video",id,false);
+        return video;
+    },function () {
+        var video = exports.content.videos[id.toString()];
+        if (!video) console.log("video",id,false);
+        return video;
+    }
+
+
+[INTRO]
+Data modeling with Graphs is fun. Just take your real-world data, a whiteboard and draw the connections that are important. There are 

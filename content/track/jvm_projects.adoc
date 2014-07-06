@@ -1,0 +1,12 @@
+== undefined
+:type: track
+:path: /c/track/jvm_projects
+
+<!-- todo replace with tiles --> 
+* Neo4j Spatial offering geospatial functionality on top of the graph</li> 
+* Structr a Java based custom Neo4j backend and CMS frontend</li> 
+* Neoclipse an Eclipse RCP based Neo4j workbench</li> 
+* Graph Collections a set of in-graph representations of typical data structures, like lists, trees etc.</li> 
+* Java Rest Binding which offers a Java API for the Neo4j-Server, built on jersey-client</li> 
+* The Neo4j JDBC driver which allows to run Cypher statements via JDBC and integrates so with all JDBC libraries and tools</li> 
+* https://github.com/alexsmirnov/neo4j-connector[Neo4j JCA connector]</li> 

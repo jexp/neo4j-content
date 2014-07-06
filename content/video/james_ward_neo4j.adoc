@@ -1,0 +1,10 @@
+== James Ward on Neo4j
+:type: video
+:path: /c/video/james_ward_neo4j
+:author: _JamesWard
+image::http://assets.neo4j.org/img/still/jamesward.jpg[James Ward on Neo4j,role=thumbnail]
+:src: http://player.vimeo.com/video/53221343
+
+
+[INTRO]
+James Ward shows how to build and deploy a Neo4j based app on heroku.

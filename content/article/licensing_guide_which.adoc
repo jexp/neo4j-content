@@ -1,0 +1,34 @@
+== Which license is right for you?
+:type: article
+:url: http://www.neotechnology.com/price-list/
+:actionText: Neo4j Editions
+image::http://assets.neo4j.org/img/logo/neotechnology_small.png[Which license is right for you?,role=img]
+
+
+[INTRO]
+That depends on how you're using Neo4j.
+===== The main intention for usage of Neo4j
+
+ 
+You are free to use the community version of Neo4j in any situation where you would, for example, use MySQL. If you are using Neo4j in a commercial, production setting, then our intention is that you will contact Neo Technology to discuss licensing.
+ 
+===== You build Closed Source, Business-Essential Online Applications
+
+ 
+If you're using Neo4j to build closed-source online applications that are central to your business, then we want you to talk to us about commercial licensing of the http://www.neotechnology.com/price-list/[Neo4j Enterprise edition]. It offers the performance, monitoring, backup and high-availability features you need to be successful - not to mention access to full support from our top engineering team.
+ 
+===== You want to embed Neo4j as an OEM component in your Closed Source software
+
+ 
+Neo4j is a great choice when you need to include a graph database service in your packaged software product. We can make Neo4j available to use in these situations under our commercial OEM licensing - http://neotechnology.com/contactus/[contact us] for details.
+ 
+===== You are Testing or Evaluating Neo4j
+
+ 
+All editions of Neo4j are available for link:/download[download] and can be used under permissive licenses - perfect for testing and evaluating Neo4j before you've released your code or made your new online service available to your customers. If you want to evaluate Neo4j for a real use-case, the *personal bundle* is the way to go. 
+ 
+===== You are developing Open Source Software
+
+ 
+We love open source development, so you are free to use all Neo4j components for your open source, public domain project under either the GPL (for Community edition) or the AGPL (Enterprise edition, http://neotechnology.com/contactus/[contact us]).
+ 

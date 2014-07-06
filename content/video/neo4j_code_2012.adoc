@@ -1,0 +1,10 @@
+== Contributions to the Neo4j code base
+:type: video
+:path: /c/video/neo4j_code_2012
+:author: systay
+image::http://assets.neo4j.org/img/still/neo4j_code_2012.gif[Contributions to the Neo4j code base,role=thumbnail]
+:src: http://www.youtube.com/embed/YJKK7ciYRhM
+
+
+[INTRO]
+A visualisation of Neo4j's code base during 2012

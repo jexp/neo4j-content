@@ -1,0 +1,12 @@
+== Gremlin
+:type: driver
+:path: /c/driver/gremlin
+:author: @tinkerpop
+:tags: groovy,rest,gremlin
+:url: https://github.com/tinkerpop/gremlin
+image::http://www.tinkerpop.com/images/gremlin-character.png[Gremlin,role=logo]
+:source: https://github.com/tinkerpop/gremlin
+:docs: https://github.com/tinkerpop/gremlin/wiki
+:site: http://www.tinkerpop.com
+
+Gremlin is a Groovy DSL by the Tinkerpop community for expressing graph traversals using the underlying https://github.com/tinkerpop/pipes[pipes framework] that sits on top of https://github.com/tinkerpop/blueprints/tree/master/blueprints-neo4j-graph[blueprints-neo4j]

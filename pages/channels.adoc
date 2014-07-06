@@ -1,0 +1,13 @@
+== How do you learn?
+:type: page
+:path: /participate/channels
+image::http://assets.neo4j.org/img/logo/survey.png[How do you learn?,role=thumbnail]
+:featured: 
+:related: 
+:actionText: Participate in survey
+
+
+[INTRO]
+We are interested in which communication channels you, but also especially your co-workers, friends and customer developers use to learn more about technology and software development.function (params) {
+            return render.include("/participate/_channels", params);
+        }

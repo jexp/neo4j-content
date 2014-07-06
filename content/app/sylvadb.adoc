@@ -1,0 +1,8 @@
+== Sylva DB Modeling Workbench
+:type: app
+:path: /c/app/sylvadb
+:author: Javier de la Rosa
+:url: http://sylvadb.org
+image::http://beta.sylvadb.com/static/img/sylva_logo_header.png[Sylva DB Modeling Workbench,role=logo]
+
+Sylva is a free, easy-to-use, flexible, and scalable database management system that helps you collect, collaborate, visualize and query large data sets.

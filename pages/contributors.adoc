@@ -1,0 +1,12 @@
+== Contributors - you rock.
+:type: page
+:path: /participate/contributors
+image::http://assets.neo4j.org/img/still/neo4j_code_2012.gif[Contributors - you rock.,role=thumbnail]
+:previewText: We're very proud to have such an engaged group of contributors to Neo4j and its ecosystem.
+:actionText: See our contributors
+:featured: [object Object]
+:related: maxdemarzi,mhluongo,ronge,craigtaverner,technige,pablopareja,espeed,rhetonik
+
+
+[INTRO]
+The Neo4j project is driven by the community. Here are some individuals that you might encounter in the discussion forums or come across their projects. For a full list of all code contributors, please see http://docs.neo4j.org/chunked/stable/contributors.html[The official docs.]

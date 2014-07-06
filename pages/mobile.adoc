@@ -1,0 +1,7 @@
+== Neo4j on and from mobile devices and smartphones
+:type: page
+:path: /develop/mobile
+image::[Neo4j on and from mobile devices and smartphones,role=thumbnail]
+:featured: 
+:related: 
+

@@ -1,0 +1,9 @@
+== Neoid
+:type: driver
+:path: /c/driver/neoid
+:author: @elado
+:tags: ruby,rest,ogm
+:url: https://github.com/elado/neoid
+image::http://assets.neo4j.org/img/languages/rails.png[Neoid,role=logo]
+
+Make your ActiveRecords stored and searchable on Neo4j graph database. With Neoid, queries that would make MySQL crawl become super fast. You get the benefits of Neo4j speed while keeping your schema on your plain old RDBMS. 

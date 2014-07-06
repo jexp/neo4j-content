@@ -1,0 +1,9 @@
+== Spring Data Neo4j
+:type: driver
+:path: /c/driver/spring_data_neo4j
+:author: @neo4j
+:tags: java,jvm,rest,spring,ogm
+:url: /develop/spring
+image::http://assets.neo4j.org/img/languages/sdn.png[Spring Data Neo4j,role=logo]
+
+Familiar POJO-based development, enabling object-to-graph mapping using annotations. Amazingly simple, with full graph power just a traversal query away.

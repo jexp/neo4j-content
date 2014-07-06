@@ -1,0 +1,11 @@
+== Neo4j in Action
+:type: book
+:path: /c/book/neo4jinaction
+:author: Jonas Partner and Aleksa Vukotic
+:url: http://www.manning.com/partner/
+image::http://assets.neo4j.org/img/books/neo4j_in_action.png[Neo4j in Action,role=logo]
+:price: Ebook - $35.99, Print - $44.99
+
+
+[INTRO]
+Neo4j in Action is a comprehensive guide to Neo4j, aimed mainly at application developers and software architects.Neo4j in Action is a comprehensive guide to Neo4j, aimed mainly at application developers and software architects. This exciting new book by Jonas Partner and Aleksa Vukotic is the first full length book on Neo4j, covering an introduction to Neo4j, application development with Neo4j, and Neo4j in production.

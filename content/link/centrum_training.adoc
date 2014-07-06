@@ -1,0 +1,9 @@
+== Neo4j Developer Training by Centrum (AU)
+:type: link
+:author: Centrum Systems
+:url: http://www.centrumsystems.com.au/what-we-do/training/neo4j-developer-training/
+image::http://www.centrumsystems.com.au/wp-content/themes/thesis_18/images/logo.jpg[Neo4j Developer Training by Centrum (AU),role=thumbnail]
+
+
+[INTRO]
+Centrum Systems is a Neo Technology Business Partner and provides initial developer training on the leading NoSQL product, Neo4j, for customers in Australia and New Zealand. The training is normally delivered over a two week period and can include assistance in determining architecture and establishing a PoC.

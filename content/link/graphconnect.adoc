@@ -1,0 +1,13 @@
+== GraphConnect
+:type: link
+:path: /c/link/graphconnect
+:url: http://graphconnect.com
+image::http://assets.neo4j.org/img/logo/graphconnect.png[GraphConnect,role=thumbnail]
+image::http://assets.neo4j.org/img/events/GC_n4jsite_ad.jpg[GraphConnect,role=img]
+:actionText: Register Now!
+
+
+[INTRO]
+GraphConnect is the graph conference to meet developers, users and visionaries present and talk about graph databases and their applications.
+ Upcoming conferences in http://www.graphconnect.com/new-york/[New York] and http://www.graphconnect.com/london[London].
+ Videos and slides from http://www.graphconnect.com/san-francisco/[San Francisco], http://www.graphconnect.com/boston/[Boston] and http://www.graphconnect.com/chicago[Chicago] are online now.

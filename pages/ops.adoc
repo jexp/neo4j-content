@@ -1,0 +1,15 @@
+== Neo4j in Production - Operations
+:type: page
+:path: /develop/ops
+image::http://assets.neo4j.org/img/still/secrets.png[Neo4j in Production - Operations,role=thumbnail]
+:actionText: 
+:featured: [object Object]
+:related: [object Object],[object Object],[object Object],[object Object],function () {
+        var video = exports.content.videos[id.toString()];
+        if (!video) console.log("video",id,false);
+        return video;
+    },production,[object Object],[object Object]
+
+
+[INTRO]
+To run Neo4j in production, these resources will help you get going.

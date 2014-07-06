@@ -1,0 +1,47 @@
+== Neo4j Use-Cases
+:type: page
+:path: /learn/use_cases
+image::http://assets.neo4j.org/img/still/use_cases.jpg[Neo4j Use-Cases,role=thumbnail]
+:featured: [object Object],function () {
+        var video = exports.content.videos[id.toString()];
+        if (!video) console.log("video",id,false);
+        return video;
+    },function () {
+        var video = exports.content.videos[id.toString()];
+        if (!video) console.log("video",id,false);
+        return video;
+    },function () {
+        var video = exports.content.videos[id.toString()];
+        if (!video) console.log("video",id,false);
+        return video;
+    },function () {
+        var video = exports.content.videos[id.toString()];
+        if (!video) console.log("video",id,false);
+        return video;
+    },[object Object]
+:related: [object Object],[object Object],[object Object],[object Object],function () {
+        var video = exports.content.videos[id.toString()];
+        if (!video) console.log("video",id,false);
+        return video;
+    },function () {
+        var video = exports.content.videos[id.toString()];
+        if (!video) console.log("video",id,false);
+        return video;
+    },function () {
+        var video = exports.content.videos[id.toString()];
+        if (!video) console.log("video",id,false);
+        return video;
+    },[object Object],function () {
+        var video = exports.content.videos[id.toString()];
+        if (!video) console.log("video",id,false);
+        return video;
+    },function () {
+        var video = exports.content.videos[id.toString()];
+        if (!video) console.log("video",id,false);
+        return video;
+    }
+:actionText: Learn More
+
+
+[INTRO]
+The versatility of graph databases allows you to power applications in many different domains with their flexible data-model and high-performance query capabilities. You'll only see a tiny selection of possibilities here, the sky is your limit

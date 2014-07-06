@@ -1,0 +1,9 @@
+== Bulbflow
+:type: driver
+:path: /c/driver/bulbflow
+:author: @espeed
+:tags: python,rest,ogm
+:url: http://bulbflow.com/overview/
+image::http://assets.neo4j.org/img/languages/bulbflow.png[Bulbflow,role=logo]
+
+Bulbs is an open-source Python persistence framework for graph databases and the first piece of a larger Web-development toolkit. It’s like an ORM for graphs. 

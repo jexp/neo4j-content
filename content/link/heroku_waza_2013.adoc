@@ -1,0 +1,12 @@
+== Twitter Connections Heroku Waza 2013 (0.5MB)
+:type: link
+:path: /c/link/heroku_waza_2013
+:author: mesirii
+:url: https://waza.neo4j.org/#twitter
+:github: https://github.com/maxdemarzi/neowaza
+image::http://waza.neo4j.org/images/twitter.png[Twitter Connections Heroku Waza 2013 (0.5MB),role=img]
+:actionText: Discover connections
+
+
+[INTRO]
+Inferred Connection Graph from Tweets during Heroku Waza 2013. http://example-data.neo4j.org/files/heroku_waza_2013.zip[<span class='icon-download-alt'>&nbsp;</span>]

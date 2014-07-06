@@ -1,0 +1,5 @@
+== undefined
+:type: asciidoc
+:path: /c/asciidoc/simple_asciidoc
+:url: https://api.github.com/gists/ca811daa580aee95bd07
+

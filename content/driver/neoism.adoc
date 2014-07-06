@@ -1,0 +1,9 @@
+== Neoism
+:type: driver
+:path: /c/driver/neoism
+:author: Jason McVetta
+:tags: go,rest
+:url: https://github.com/jmcvetta/neoism
+image::http://assets.neo4j.org/img/languages/neoism.png[Neoism,role=logo]
+
+Neoism is a Go client library providing access to the Neo4j graph database via its REST API.

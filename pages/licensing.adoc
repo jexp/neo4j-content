@@ -1,0 +1,10 @@
+== Neo4j Licenses
+:type: page
+:path: /learn/licensing
+image::http://assets.neo4j.org/img/logo/neotechnology_small.png[Neo4j Licenses,role=thumbnail]
+:featured: [object Object],[object Object]
+:related: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+
+
+[INTRO]
+Neo4j's enterprise editions are provided by Neo Technology for use in commercial, non open-source deployments.

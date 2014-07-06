@@ -1,0 +1,13 @@
+== Neo4j Stable Release 2.1.2
+:type: version
+:url: http://neo4j.com/blog/neo4j-2-1-2/
+image::http://assets.neo4j.org/img/still/install.gif[Neo4j Stable Release 2.1.2,role=thumbnail]
+:version: 2.1.2
+:stability: stable
+:key: stable
+:date: June 12, 2014
+:src: http://player.vimeo.com/video/53838744
+
+
+[INTRO]
+ETL CSV Import, Dense Nodes

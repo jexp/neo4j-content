@@ -1,0 +1,11 @@
+== NoSQL Distilled
+:type: book
+:path: /c/book/nosqldistilled
+:author: Pramod J. Sadalage and Martin Fowler
+:url: http://www.amazon.com/gp/product/0321826620/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321826620&linkCode=as2&tag=neotech05-20
+image::http://assets.neo4j.org/img/books/nosql_distilled.png[NoSQL Distilled,role=logo]
+:price: List Price: $39.99
+
+
+[INTRO]
+A Brief Guide to the Emerging World of Polyglot PersistenceTogether, Fowler and ThoughtWorks principal consultant Pramod Sadalage thoroughly explain how NoSQL databases work, and why they may often be a superior alternative for Big Data, high-traffic web sites, heavy-duty streaming media delivery, and other demanding environments.

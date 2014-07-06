@@ -1,0 +1,8 @@
+== How to Install Neo4j on Windows - Avoiding the Pitfalls
+:type: link
+:author: jongallant
+:url: http://blog.jongallant.com/2013/03/install-neo4j-windows.html
+
+
+[INTRO]
+Installing Neo4j on Windows is pretty straightforward, but the Neo4j installation instructions for Windows are lacking. So Jon wrote an improved how-to.

@@ -1,0 +1,9 @@
+== Using Neo4j from Python
+:type: link
+:author: technige
+:url: http://blog.safaribooksonline.com/2013/07/23/using-neo4j-from-python/
+image::http://assets.neo4j.org/img/logo/safari-logo.png[Using Neo4j from Python,role=thumbnail]
+
+
+[INTRO]
+This article shows how the Py2neo library can be used to build a simple application with Neo4j.

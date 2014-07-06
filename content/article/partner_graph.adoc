@@ -1,0 +1,12 @@
+== Neo4j Partners Graph
+:type: article
+:url: http://www.neotechnology.com/partners/
+image::http://assets.neo4j.org/img/logo/neotechnology_small.png[Neo4j Partners Graph,role=img]
+
+
+[INTRO]
+The Neo4j Partner Graph provides market differentiation and sustainable revenue opportunities for its members.Program Benefits 
+* Access to Neo4j, the world’s leading graph database and its global community of experts 
+* Effective field engagement with access to Neo engineering resources 
+* Access to partner program resources to help develop and expand business Sales, training, and marketing enablement to expand existing and drive new partner business and revenue 
+* Recognition as an innovator and thought leader in the NoSQL space 

@@ -1,0 +1,10 @@
+== What is a Graph Database? What is Neo4j?
+:type: video
+:path: /c/video/ian_graphdb_neo4j
+:author: Ian Robinson
+image::http://assets.neo4j.org/img/still/what_isa_graphdb.jpg[What is a Graph Database? What is Neo4j?,role=thumbnail]
+:src: https://player.vimeo.com/video/56043918#t=0m19s
+
+
+[INTRO]
+Ian Robinson explains what excites him about graph databases and Neo4j. He discusses the power of the graph data model and how its expressiveness supersedes the relational model. He shares some insights in getting started with modeling and using graphs in your application development.

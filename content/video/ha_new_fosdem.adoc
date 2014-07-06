@@ -1,0 +1,9 @@
+== The new Neo4j High Availability Auto Cluster
+:type: video
+:path: /c/video/ha_new_fosdem
+image::http://image.slidesharecdn.com/haautocluster-130206043426-phpapp01/95/slide-1-638.jpg?1360146953[The new Neo4j High Availability Auto Cluster,role=thumbnail]
+:src: http://www.youtube.com/embed/vLg18Yv0SVE
+
+
+[INTRO]
+http://de.slideshare.net/jexp/new-neo4j-auto-ha-cluster[slides for the presentation]

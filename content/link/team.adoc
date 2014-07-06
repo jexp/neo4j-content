@@ -1,0 +1,9 @@
+== Value in Relationships - Our Team
+:type: link
+:url: http://www.neotechnology.com/staff
+image::http://assets.neo4j.org/img/still/team.jpg[Value in Relationships - Our Team,role=thumbnail]
+:key: team
+
+
+[INTRO]
+Working at Neo Technology is one of the best things that can happen. See, who makes Neo4j the great product it is.

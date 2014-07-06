@@ -1,0 +1,11 @@
+== Try querying different graphs with Cypher online
+:type: page
+:path: /learn/try
+image::http://assets.neo4j.org/img/still/cypher_tutorial.gif[Try querying different graphs with Cypher online,role=thumbnail]
+:actionText: Try live
+:featured: [object Object]
+:related: [object Object],[object Object],cypher,[object Object],[object Object]
+
+
+[INTRO]
+Try Cypher live on a dataset of your choice

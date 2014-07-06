@@ -1,0 +1,14 @@
+== Neo4j 2.0 - Eine Graphdatenbank für alle
+:type: book
+:path: /c/book/neo4j20_de
+:author: Michael Hunger
+:url: http://bit.ly/das-buch
+image::http://assets.neo4j.org/img/books/neo4j20_de_small.jpg[Neo4j 2.0 - Eine Graphdatenbank für alle,role=thumbnail]
+image::http://assets.neo4j.org/img/books/neo4j20_de.jpg[Neo4j 2.0 - Eine Graphdatenbank für alle,role=logo]
+:key: neo4j20_de
+:price: PDF frei, E-Book: 9,99 EUR; Taschenbuch EUR 12.90
+:actionText: Jetzt reinschauen
+
+
+[INTRO]
+Das einzige deutsche Buch zu Neo4j, umfassend und aktuell für Version 2.0. Gratis E-Book zum DownloadDer Mehrwert von Informationen steckt nicht notwendigerweise in der reinen Menge von Daten, sondern vor allem in den Beziehungen zwischen Elementen. Bisher war es nicht so einfach, die interessanten, vernetzten Domänen verlustlos in einer Datenbank zu speichern und effizient abzufragen. Neo4j, besonders die neue Version 2.0, erlaubt es, komplexe Datenmodelle direkt zu modellieren und herausfordernde Anwendungsfälle performant umzusetzen. In diesem Buch gibt Michael Hunger, langjähriger Mitarbeiter von Neo Technology, an praktischen Beispielen einen Überblick zur Anwendung der quelloffenen Graphdatenbank.

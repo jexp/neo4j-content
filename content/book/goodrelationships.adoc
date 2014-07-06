@@ -1,0 +1,11 @@
+== Good Relationships
+:type: book
+:path: /c/book/goodrelationships
+:author: Michael Hunger with Andreas Kolleger and David Montag
+:url: http://www.lulu.com/shop/michael-hunger-and-david-montag-and-andreas-kollegger/good-relationships-the-spring-data-neo4j-guide-book/paperback/product-20201195.html
+image::http://assets.neo4j.org/img/books/good_relationships.png[Good Relationships,role=logo]
+:price: $9.95
+
+
+[INTRO]
+This guide introduces you to Spring Data Neo4j, the integration library for Neo4j and Spring.With Spring Data, the ever popular Spring Framework has cultivated a new patch of ground, bringing Big Data and NOSQL technology like Neo4j to enterprise developers. This guide introduces you to Spring Data Neo4j, using the fast, powerful and scalable graph database Neo4j to enjoy the benefits of having good relationships in your data.

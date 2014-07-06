@@ -1,0 +1,8 @@
+== Docs: Data Modeling Modeling Examples
+:type: link
+:author: nawroth,peterneubauer
+:url: http://docs.neo4j.org/chunked/stable/data-modeling-examples.html
+
+
+[INTRO]
+The following chapters contain simplified examples of how different domains can be modeled using Neo4j. The aim is not to give full examples, but to suggest possible ways to think using nodes, relationships, graph patterns and data locality in traversals.

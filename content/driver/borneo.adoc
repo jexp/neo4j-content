@@ -1,0 +1,11 @@
+== Borneo
+:type: driver
+:path: /c/driver/borneo
+:author: @wagjo
+:tags: clojure,jvm
+:url: https://github.com/wagjo
+image::http://assets.neo4j.org/img/languages/clojure.png[Borneo,role=logo]
+:docs: http://wagjo.github.io/borneo/
+:source: https://github.com/wagjo
+
+Clojure wrapper for Neo4j, a graph database, in embedded JVM mode.

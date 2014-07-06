@@ -1,0 +1,10 @@
+== Neo4j in the scientific community
+:type: page
+:path: /learn/scientific
+:featured: 
+:actionText: Read more
+:related: [object Object],[object Object],linked_data,[object Object]
+
+
+[INTRO]
+There is a lot of research going on around Graph Databases in general and Neo4j in particular. Below you will find some of the more recent works in this field.

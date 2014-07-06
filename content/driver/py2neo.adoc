@@ -1,0 +1,11 @@
+== py2neo
+:type: driver
+:path: /c/driver/py2neo
+:author: @technige
+:tags: python,rest
+:url: http://py2neo.org/
+image::http://assets.neo4j.org/img/languages/py2neo.png[py2neo,role=logo]
+:site: http://py2neo.org/
+:source: https://github.com/nigelsmall/py2neo
+
+Py2neo is a simple and pragmatic Python library that provides access to the popular graph database Neo4j via its RESTful web service interface.

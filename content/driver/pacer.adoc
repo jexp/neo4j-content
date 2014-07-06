@@ -1,0 +1,9 @@
+== Pacer
+:type: driver
+:path: /c/driver/pacer
+:author: [object Object]
+:tags: ruby,jvm,dsl
+:url: https://github.com/pangloss/pacer
+image::http://assets.neo4j.org/img/languages/jruby-logo.png[Pacer,role=logo]
+
+Express yourself clearly and model your application in terms you understand with Pacer - a JRuby gem for building embedded Neo4j applications.

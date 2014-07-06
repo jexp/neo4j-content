@@ -1,0 +1,11 @@
+== Download and Install Neo4j
+:type: page
+:path: /download
+image::http://assets.neo4j.org/img/neo4j/neo4j-logo.png[Download and Install Neo4j,role=thumbnail]
+:featured: [object Object],[object Object],[object Object]
+:related: other_versions,getting_started,windows,linux,licensing,[object Object],[object Object],maven,[object Object]
+
+
+[INTRO]
+Your Neo4j installation is just one click away. Grab the Community Edition to get started, or 
+use our Enterprise bundles for your production setup. link:/learn/licensing[More details on licensing and bundled offerings].

@@ -1,0 +1,12 @@
+== AnormCypher
+:type: driver
+:path: /c/driver/anorm_cypher
+:author: @wefreema
+:tags: scala,rest,cypher
+:url: http://anormcypher.org
+image::http://assets.neo4j.org/img/languages/scala.png[AnormCypher,role=logo]
+:source: https://github.com/AnormCypher/AnormCypher
+:docs: https://github.com/AnormCypher/AnormCypher/blob/master/readme.md#anormcypher
+:site: http://anormcypher.org
+
+A Cypher-oriented Scala library modeled after the Play! framework's Anorm library.

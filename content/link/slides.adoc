@@ -1,0 +1,9 @@
+== Neo4j Presentation slides
+:type: link
+:url: http://slideshare.net/neo4j
+image::http://help.slideshare.com/system/logos/2029/3220/logo.png[Neo4j Presentation slides,role=thumbnail]
+:actionText: Enjoy the presentations
+
+
+[INTRO]
+Slides from Neo4j conference, webinar and meetup presentations. These talks were delivered by a variety of customer, company and community speakers. Also check out our link:/learn/videos[recorded videos].

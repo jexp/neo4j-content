@@ -1,0 +1,9 @@
+== Neo4j GO
+:type: driver
+:path: /c/driver/neo4j_go
+:author: @packetdrop
+:tags: go,rest
+:url: https://github.com/davemeehan/Neo4j-GO
+image::http://assets.neo4j.org/img/languages/go.png[Neo4j GO,role=logo]
+
+A Neo4j REST client in the GO language.

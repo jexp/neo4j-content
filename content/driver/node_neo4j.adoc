@@ -1,0 +1,11 @@
+== node-neo4j
+:type: driver
+:path: /c/driver/node_neo4j
+:author: @aseemk,@gasi
+:tags: js,rest,nodejs
+:url: https://github.com/thingdom/node-neo4j
+image::http://assets.neo4j.org/img/languages/nodejs.png[node-neo4j,role=logo]
+:docs: http://coffeedoc.info/github/thingdom/node-neo4j/
+:source: https://github.com/thingdom/node-neo4j
+
+Node.js driver for Neo4j. Cleverly asynchronous, and blazingly fast. 

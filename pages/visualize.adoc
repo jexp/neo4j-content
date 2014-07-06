@@ -1,0 +1,10 @@
+== Graph Visualization
+:type: page
+:path: /develop/visualize
+image::http://assets.neo4j.org/img/still/d3_network.png[Graph Visualization,role=thumbnail]
+:featured: [object Object],[object Object],[object Object]
+:related: [object Object],graphgist,[object Object],[object Object],[object Object],[object Object],neoclipse,[object Object],[object Object],[object Object],[object Object],[object Object]
+
+
+[INTRO]
+Storing a graph is one thing, but visualizing it creates awe and epiphanies. Graph visualisations are a powerful tool to convey the content of a graph. They can highlight patterns, show clusters and connections. There are different tools that you can use to visualize the content of a Neo4j graph database.

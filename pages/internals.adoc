@@ -1,0 +1,9 @@
+== Neo4j Internals
+:type: page
+:path: /develop/internals
+:featured: [object Object]
+:related: [object Object],[object Object],[object Object],[object Object],[object Object]
+
+
+[INTRO]
+You might have wondered how Neo4j works internally, here are some answers

@@ -1,0 +1,8 @@
+== Java programming basics with Neo4j
+:type: page
+:path: /java/java_basics
+:next: jvm
+:prev: java
+:featured: [object Object]
+:related: neo4j,[object Object],cypher_track_start
+

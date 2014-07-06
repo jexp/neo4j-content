@@ -1,0 +1,10 @@
+== Installing Sublime Text support for Cypher and Neo4j
+:type: video
+:path: /c/video/cypher_sublime
+:author: peterneubauer
+image::http://assets.neo4j.org/img/still/cypher.png[Installing Sublime Text support for Cypher and Neo4j,role=thumbnail]
+:src: http://player.vimeo.com/video/64886333
+
+
+[INTRO]
+This is a small walkthrough to install 2 very useful Sublime Text 2 plugins by http://twitter.com/kollhof[@kollhof] and http://twitter.com/sqlcook[@sqlcook] when working with Neo4j.

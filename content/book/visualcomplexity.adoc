@@ -1,0 +1,11 @@
+== Visual Complexity
+:type: book
+:path: /c/book/visualcomplexity
+:author: Manuel Lima
+:url: http://www.amazon.com/gp/product/1568989369/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1568989369&linkCode=as2&tag=neotech05-20
+image::http://assets.neo4j.org/img/books/visual_complexity.png[Visual Complexity,role=logo]
+:price: List Price: $50.00
+
+
+[INTRO]
+Mapping Patterns of InformationFrom representing networks of friends on Facebook to depicting interactions among proteins in a human cell, Visual Complexity presents one hundred of the most interesting examples of information-visualization by the field's leading practitioners.

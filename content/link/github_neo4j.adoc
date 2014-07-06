@@ -1,0 +1,10 @@
+== GitHub Issues
+:type: link
+:url: http://github.com/neo4j/neo4j/issues
+image::http://assets.neo4j.org/img/logo/github.png[GitHub Issues,role=thumbnail]
+:key: github_neo4j
+:actionText: Report issue
+
+
+[INTRO]
+Encountered an issue with Neo4j? Submit it here.

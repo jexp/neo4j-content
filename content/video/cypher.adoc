@@ -1,0 +1,9 @@
+== Query with Cypher
+:type: video
+:path: /c/video/cypher
+image::http://assets.neo4j.org/img/still/cypher.png[Query with Cypher,role=thumbnail]
+:src: http://player.vimeo.com/video/50389825
+
+
+[INTRO]
+Cypher is a graph query language. Easy on the eyes, while expressive and powerful.

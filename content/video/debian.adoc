@@ -1,0 +1,11 @@
+== Debian - stable
+:type: video
+:path: /c/video/debian
+image::http://assets.neo4j.org/img/still/debian_install.png[Debian - stable,role=thumbnail]
+:src: http://player.vimeo.com/video/57939261
+
+
+[INTRO]
+We provide Debian packages in a repository. We _sign_ the packages so you know you're getting the genuine Neo4j packages.function (params) {
+                return render.include("download/debian", params)
+            }

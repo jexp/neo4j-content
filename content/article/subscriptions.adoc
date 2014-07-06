@@ -1,0 +1,16 @@
+== Neo4j Commercial Subscriptions
+:type: article
+:url: http://www.neotechnology.com/price-list/
+:actionText: Neo4j Enterprise Subscriptions
+image::http://assets.neo4j.org/img/still/neo4j_bundles.png[Neo4j Commercial Subscriptions,role=img]
+
+
+[INTRO]
+Are you building a business-critical application? We'd love to support you in being successful.
+ Neo4j Enterprise Edition is designed for large-scale high-availability deployments. In production since 2003, today it powers applications globally for http://www.neotechnology.com/customers[hundreds of commercial customers], Neo4j can also make the difference for your company.
+ 
+By applying the powerful property graph model and fast graph search to your data you can make well informed and faster decisions in an increasingly demanding market.
+ 
+*Neo4j, Enterprise Edition* is an Open-Source, http://www.neotechnology.com/neo4j-scales-for-the-enterprise/[high-performance] graph database with fully transactional operations. It offers production capabilities, like a High Performance Cache, Live Backup, High Availability Clustering, and Advanced Monitoring 
+ 
+The Enterprise edition is available in different http://www.neotechnology.com/price-list/[subscriptions tailored to your needs]. From a free personal subscription for individual usage, a startup and small business package to a comprehensive offering for medium and large enterprises.

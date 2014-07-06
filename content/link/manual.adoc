@@ -1,0 +1,9 @@
+== The Neo4j Manual
+:type: link
+:url: http://docs.neo4j.org/chunked/milestone
+image::http://assets.neo4j.org/img/events/training.png[The Neo4j Manual,role=thumbnail]
+:actionText: Go to the manual
+
+
+[INTRO]
+The Neo4j Manual is the comprehensive resource for detailed information about Neo4j. You will find everything, from tutorials to extensive reference documentation on every aspect of the database.

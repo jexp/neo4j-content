@@ -1,0 +1,11 @@
+== Neo4jClient
+:type: driver
+:path: /c/driver/neo4jclient
+:author: @tathamoddie,@romikoderbynew
+:tags: dotnet,rest
+:url: http://nuget.org/packages/Neo4jClient
+image::http://assets.neo4j.org/img/languages/dotnet.png[Neo4jClient,role=logo]
+:source: https://github.com/Readify/Neo4jClient
+:docs: https://github.com/Readify/Neo4jClient/wiki
+
+A .NET client for Neo4j, which makes it easy to write Cypher queries in C# with IntelliSense. Also supports basic CRUD, legacy indexing and Gremlin.

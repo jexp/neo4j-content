@@ -1,0 +1,11 @@
+== Linked Data: RDF and SparQL with Neo4j
+:type: page
+:path: /develop/linked_data
+:tags: rdf,sparql,linked data,semantic web
+:url: test
+:featured: [object Object]
+:related: [object Object],[object Object],[object Object],[object Object],[object Object]
+
+
+[INTRO]
+The core engine of Neo4j supports the link:/learn/graphdatabase[property graph model]. This model can easily be adapted to support the LinkedData http://en.wikipedia.org/wiki/Resource_Description_Framework[RDF model], consisting of Triples.This turns Neo4j into a full triple store, or you can just import and use LinkedData resources from e.g. http://dbpedia.org/[DBPedia] and others. 

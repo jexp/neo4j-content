@@ -1,0 +1,11 @@
+== Neo4j Graph Gists
+:type: video
+:author: nawroth,peterneubauer,mesirii
+:url: http://gist.neo4j.org
+:github: https://github.com/neo4j-contrib/graphgist
+:src: http://player.vimeo.com/video/74279113?badge=0&byline=0&portrait=0&title=0
+:actionText: Create & Share
+
+
+[INTRO]
+Use literate programming with simple ASCII-doc files with prose and Cypher queries to render interactive, incremental domain model examples with lots of value added features.The quick screencast shows how to create them.

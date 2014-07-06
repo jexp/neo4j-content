@@ -1,0 +1,9 @@
+== NuGet: Neo4j.Server.AzureWorkerHost 
+:type: link
+:author: tathamoddie
+:url: http://nuget.org/packages/Neo4j.Server.AzureWorkerHost/
+image::http://nuget.org/Content/Images/packageDefaultIcon.png[NuGet: Neo4j.Server.AzureWorkerHost ,role=thumbnail]
+
+
+[INTRO]
+Makes it super easy to host Neo4j in an Azure worker role

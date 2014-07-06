@@ -1,0 +1,9 @@
+== Why Graphs
+:type: video
+:path: /c/video/why_graphs
+image::http://b.vimeocdn.com/ts/390/134/390134611_640.jpg[Why Graphs,role=thumbnail]
+:src: http://player.vimeo.com/video/56040747#t=0m14s
+
+
+[INTRO]
+Emil Eifrem explains how graph databases can make a difference in harvesting more value in your data by looking at its relationships.

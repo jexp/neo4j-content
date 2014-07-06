@@ -1,0 +1,14 @@
+== Neo4j webinars
+:type: track
+:path: /learn/videos_webinar
+image::http://assets.neo4j.org/img/events/webinar.png[Neo4j webinars,role=thumbnail]
+:prev: videos
+:next: videos_interview
+image::http://assets.neo4j.org/img/still/webinars_slide.jpg[Neo4j webinars,role=img]
+:featured: 
+:related: 
+:actionText: Watch them
+
+
+[INTRO]
+Enjoy yourself watching these webinar-videos that were produced to entertain and educate you about graph databases, Neo4j and Cypher. Check our event listing for link:/participate/events/webinars[currently scheduled webinars].

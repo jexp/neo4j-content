@@ -1,0 +1,8 @@
+== Typology
+:type: app
+:path: /c/app/typology
+:author: @renepickhardt
+:url: http://typology.de/
+image::http://assets.neo4j.org/img/apps/typology.png[Typology,role=logo]
+
+Word typing predictions, based on Neo4j and Google N-Gram data.

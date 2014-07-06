@@ -1,0 +1,7 @@
+== Neo4j Stable Release 1.5.3
+:type: version
+:url: http://neo4j.com/blog/announcing-neo4j-boden-bord-1-5-ga-release/
+:stability: stable
+:version: 1.5.3
+:date: May 24, 2012
+

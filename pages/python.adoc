@@ -1,0 +1,10 @@
+== Neo4j and Python
+:type: page
+:path: /develop/python
+image::http://assets.neo4j.org/img/languages/python.png[Neo4j and Python,role=thumbnail]
+:featured: [object Object],[object Object]
+:related: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],technige,[object Object],[object Object]
+
+
+[INTRO]
+Python rocks and so does Python and Neo4j. There are many ways of interacting with Neo4j from Python

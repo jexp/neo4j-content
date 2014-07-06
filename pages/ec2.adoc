@@ -1,0 +1,11 @@
+== Easy Neo4j on Amazon EC2
+:type: page
+:path: /develop/ec2
+image::http://tctechcrunch2011.files.wordpress.com/2012/12/aws-logo-640.jpg?w=200[Easy Neo4j on Amazon EC2,role=thumbnail]
+:actionText: Easy Neo4j on Amazon EC2
+:featured: [object Object]
+:related: ec2_detailed,develop,drivers,[object Object]
+
+
+[INTRO]
+Setup your EC2 instance AND Neo4j using Puppet https://github.com/neo4j-contrib/neo4j-puppet/blob/master/README.CLOUDFORMATION.md[(source)]

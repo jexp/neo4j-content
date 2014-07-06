@@ -1,0 +1,11 @@
+== Server plugins
+:type: page
+:path: /java/server_plugins
+:next: java
+:prev: jvm
+:featured: [object Object]
+:related: [object Object],,[object Object]
+
+
+[INTRO]
+If you are using Neo4j Server, you can use Server plugins written in Java to extend the functionality of the REST API.

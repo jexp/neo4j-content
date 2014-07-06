@@ -1,0 +1,9 @@
+== Azure AWS Open Stack – Neo4j Setup Tutorials on Ubuntu
+:type: link
+:author: CognoSys
+:url: http://www.cogno-sys.com/cloud-azure-amazon-open-stack/neo4j-azure-installation-graph-database-tutorials/
+image::http://www.cogno-sys.com/wp-content/themes/cogno-sys/images/logo.png[Azure AWS Open Stack – Neo4j Setup Tutorials on Ubuntu,role=thumbnail]
+
+
+[INTRO]
+In this neo4j tutorial, we shall provide easy steps to install a simple neo4j community edition on azure without using neo4j Enterprise high availability features which we shall cover in a different post.

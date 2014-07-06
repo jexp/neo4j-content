@@ -1,0 +1,12 @@
+== Federal Election Commission Campaign Data - (63.91MB)
+:type: link
+:path: /c/link/fec_2012
+:author: akollegger
+:url: http://neo4j.com/blog/follow-the-data-fec-campaign-data-challenge/
+:github: https://github.com/akollegger/FEC_GRAPH
+image::http://2.bp.blogspot.com/-yz4sG2of89Y/UG4TQ5QsgDI/AAAAAAAAAV8/apaI68-NH5U/s1600/ftd-banner.png[Federal Election Commission Campaign Data - (63.91MB),role=img]
+:actionText: Follow the Data
+
+
+[INTRO]
+The 2012 presidential campaign data from our Federal Election Committee Campaign Data Workshop. http://example-data.neo4j.org/files/fec_data_presidential_2012.zip[<span class='icon-download-alt'>&nbsp;</span>]

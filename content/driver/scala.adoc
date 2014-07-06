@@ -1,0 +1,9 @@
+== Neo4j Scala
+:type: driver
+:path: /c/driver/scala
+:author: @fakod
+:tags: scala,jvm
+:url: https://github.com/FaKod/neo4j-scala/
+image::http://assets.neo4j.org/img/languages/scala.png[Neo4j Scala,role=logo]
+
+A Scala wrapper for Neo4j which introduces an intuitive DSL for graph operations.

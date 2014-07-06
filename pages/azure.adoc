@@ -1,0 +1,11 @@
+== Deploying Neo4j to Microsoft Azure
+:type: page
+:path: /develop/cloud/azure
+image::http://blog.newrelic.com/wp-content/uploads/windows_azure2.jpg[Deploying Neo4j to Microsoft Azure,role=thumbnail]
+:actionText: Go Azure
+:featured: [object Object]
+:related: [object Object],[object Object],[object Object],[object Object],[object Object],dotnet,[object Object],windows
+
+
+[INTRO]
+It gets easier to deploy Neo4j Server on Azure every day, so here you can find some step-by-step instructions and hints on how to achieve that

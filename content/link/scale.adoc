@@ -1,0 +1,9 @@
+== Neo4j at Scale
+:type: link
+:url: http://www.neotechnology.com/neo4j-scales-for-the-enterprise/
+image::http://assets.neo4j.org/img/still/hacluster_small.jpg[Neo4j at Scale,role=thumbnail]
+:actionText: Learn More
+
+
+[INTRO]
+Learn more about how Neo4j scales, with some real-world examples

@@ -1,0 +1,11 @@
+== Intro to Graph Databases, Emil Eifrem interviewed at Strata 2013
+:type: video
+:path: /c/video/strata
+:author: emileifrem
+image::/assets/img/still/emil_strata_2013.gif[Intro to Graph Databases, Emil Eifrem interviewed at Strata 2013,role=thumbnail]
+:key: strata
+:src: http://www.youtube.com/embed/GVkTBNgRrfw
+
+
+[INTRO]
+Our CEO Emil Eifrem explains Graph Databases, Neo4j and the bigger NOSQL landscape

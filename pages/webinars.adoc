@@ -1,0 +1,13 @@
+== Webinars
+:type: page
+:path: /participate/events/webinars
+image::http://assets.neo4j.org/img/events/webinar.png[Webinars,role=thumbnail]
+:prev: meetups,events
+:next: trainings
+:actionText: Register for a webinar
+:featured: videos_webinar
+:related: 
+
+
+[INTRO]
+Neo4j webinars give you hands on expert information either directly from Neo Technology or from our partners and users. In case you missed one, we've link:/learn/videos_webinar[recorded them all].

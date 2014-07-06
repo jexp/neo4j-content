@@ -1,0 +1,9 @@
+== Neo4jPHP
+:type: driver
+:path: /c/driver/neo4jphp
+:author: @josh_adell
+:tags: php,rest
+:url: https://github.com/jadell/neo4jphp/wiki/Introduction
+image::http://assets.neo4j.org/img/languages/php.png[Neo4jPHP,role=logo]
+
+Neo4jPHP provides an API that is both intuitive and flexible, and it takes advantage of 'under-the -hood' performance enhancements, such as caching and lazy-loading. 

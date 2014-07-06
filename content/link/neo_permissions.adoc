@@ -1,0 +1,12 @@
+== Neo Permissions (560MB)
+:type: link
+:path: /c/link/neo_permissions
+:author: maxdemarzi
+:url: http://maxdemarzi.com/?s=PERMISSION+RESOLUTION
+:github: https://github.com/maxdemarzi/neo_permissions/blob/master/performance/src/test/resources/simulations/RandomPermissions.scala
+image::http://maxdemarzidotcom.files.wordpress.com/2013/03/i_can_haz_permissions.jpg?w=128&h=128[Neo Permissions (560MB),role=img]
+:actionText: Check Permissions
+
+
+[INTRO]
+Check permissions from files and folders to users and groups in this ACL example. https://dl.dropboxusercontent.com/u/57740873/datasets/neo_permissions.tar.gz[<span class='icon-download-alt'>&nbsp;</span>]

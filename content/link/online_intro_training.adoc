@@ -1,0 +1,11 @@
+== Online Training: Getting Started with Neo4j
+:type: link
+:path: /learn/online_course
+image::http://assets.neo4j.org/img/still/online_training_small.jpg[Online Training: Getting Started with Neo4j,role=thumbnail]
+:key: online_intro_training
+image::http://assets.neo4j.org/img/still/online_training.jpg[Online Training: Getting Started with Neo4j,role=img]
+:actionText: Get started today
+
+
+[INTRO]
+Learn Neo4j at your own pace and time with our free online training course. Get introduced to graph databases, learn the core functionality of Neo4j, and practice Cypher with this engaging and interactive course.

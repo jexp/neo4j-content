@@ -1,0 +1,14 @@
+== Neo4j Training
+:type: page
+:path: /participate/events/trainings
+image::http://assets.neo4j.org/img/events/n4jtutorial_ad-150x150.png[Neo4j Training,role=thumbnail]
+image::http://assets.neo4j.org/img/events/tutorials.jpg[Neo4j Training,role=img]
+:prev: webinars,events
+:next: conferences
+:actionText: Find training near you
+:featured: [object Object],[object Object]
+:related: 
+
+
+[INTRO]
+Become proficient with Neo4j by attending a full day training close to you. If you enjoy focused, hands-on learning experiences, the training is the best way to go.Find the next training in link:/participate/events/trainings_US[the US], or in Europe in link:/participate/events/trainings_EU[English] or link:/participate/events/trainings_DE[German].

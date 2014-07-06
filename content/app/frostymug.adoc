@@ -1,0 +1,8 @@
+== Frosty Mug
+:type: app
+:path: /c/app/frostymug
+:author: @josh_adell
+:url: http://frostymug.herokuapp.com
+image::http://assets.neo4j.org/img/apps/frostymug.png[Frosty Mug,role=logo]
+
+A proof-of-concept beer recommendation engine, built by Josh Adell

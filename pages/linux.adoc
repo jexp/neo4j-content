@@ -1,0 +1,12 @@
+== Linux Installation
+:type: page
+:path: /download/linux
+image::http://assets.neo4j.org/img/logo/linux.jpg[Linux Installation,role=thumbnail]
+:config: tile_page=true,no_slides=true
+:actionText: Install on Linux
+:featured: [object Object],[object Object]
+:related: [object Object]
+
+
+[INTRO]
+Installing Neo4j on Linux for instance by using apt, puppet or chef.

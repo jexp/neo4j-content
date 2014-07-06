@@ -1,0 +1,9 @@
+== Introduction to Spring Data Neo4j
+:type: video
+:path: /c/video/good_relationships
+image::http://assets.neo4j.org/img/still/sdn-intro.png[Introduction to Spring Data Neo4j,role=thumbnail]
+:src: http://www.youtube.com/embed/heC-8Pq2exQ
+
+
+[INTRO]
+Michael Hunger introduces Spring Data Neo4j the Neo4j integration for the Springframework - Spring Data project.

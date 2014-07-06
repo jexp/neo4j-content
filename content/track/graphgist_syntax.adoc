@@ -1,0 +1,13 @@
+== GraphGist Syntax
+:type: track
+:path: /c/track/graphgist_syntax
+:author: nawroth
+:url: http://gist.neo4j.org/?github-neo4j-contrib%2Fgraphgist%2F%2Fgists%2Fsyntax.adoc
+
+function (params) {
+                return render.render(
+                    "<blockquote class='external markdown'>\
+                                <%-: content.graphgist_syntax | asciidoc %>\
+                            </blockquote>\
+                ", params)
+            }

@@ -1,0 +1,11 @@
+== Seven Databases in Seven Weeks
+:type: book
+:path: /c/book/sevendatabases
+:author: Eric Redmond and Jim R. Wilson
+:url: http://www.amazon.com/gp/product/1934356921/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934356921&linkCode=as2&tag=neotech05-20
+image::http://assets.neo4j.org/img/books/seven_databases.png[Seven Databases in Seven Weeks,role=logo]
+:price: List Price: $35.00
+
+
+[INTRO]
+Seven Databases explained in week long whirlwind tours with deep dives and good examples.Seven Databases in Seven Weeks takes you on a tour of some of the hottest open source databases today. In the tradition of Bruce A. Tate's Seven Languages in Seven Weeks, this book goes beyond your basic tutorial to explore the essential concepts at the core each technology.

@@ -1,0 +1,9 @@
+== New: Labels and Indexes
+:type: page
+:path: /develop/labels
+:featured: [object Object]
+:related: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+
+
+[INTRO]
+A big new feature in Neo4j 2.0 are node labels and real, automatic indexes. Here you can quickly get an update on this extension of the property graph model.

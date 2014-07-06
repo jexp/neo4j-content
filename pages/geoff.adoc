@@ -1,0 +1,11 @@
+== Geoff
+:type: page
+:path: /develop/python/geoff
+:author: technige
+image::http://assets.neo4j.org/img/languages/py2neo.png[Geoff,role=thumbnail]
+:featured: [object Object]
+:related: [object Object],[object Object]
+
+
+[INTRO]
+Geoff is a declarative notation for representing graph data within concise human-readable text, designed specifically with Neo4j in mind. The format has been built to allow independent subgraphs to be represented outside of a graph database environment in such a way that they may be stored, transmitted and imported easily and efficiently. The basic elements which make up the Geoff format - subgraphs, rules and descriptors - are well defined but there exist several container representations which serve different purposes; commonly, either delimited text or a form of JSON is used.

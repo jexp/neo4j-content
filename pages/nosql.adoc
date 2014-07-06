@@ -1,0 +1,12 @@
+== NoSQL Data Models
+:type: page
+:path: /learn/nosql
+image::http://assets.neo4j.org/img/propertygraph/nosql-space.png[NoSQL Data Models,role=thumbnail]
+:config: no_slides=false
+:featured: [object Object],[object Object],[object Object],[object Object]
+:actionText: Not only SQL
+:related: graphdatabase,neo4j,cypher_track_start,licensing
+
+
+[INTRO]
+Understanding data stores for your application.

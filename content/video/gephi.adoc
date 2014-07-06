@@ -1,0 +1,9 @@
+== Gephi
+:type: video
+:path: /c/video/gephi
+image::http://assets.neo4j.org/img/still/gephi_neo4j_plugin.png[Gephi,role=thumbnail]
+:src: http://player.vimeo.com/video/31823202?badge=0&byline=0&portrait=0&title=0
+
+
+[INTRO]
+A JPA Compliant mapping solution for NoSQL Datastores with support for Neo4j

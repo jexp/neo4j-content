@@ -1,0 +1,11 @@
+== Neo4j Server
+:type: page
+:path: /tracks/neo4j_server
+image::http://assets.neo4j.org/img/still/neo4j_browser_small.png[Neo4j Server,role=thumbnail]
+image::http://assets.neo4j.org/img/still/neo4j_browser.png[Neo4j Server,role=img]
+:featured: [object Object],[object Object]
+:related: download,[object Object],drivers,cloud,[object Object],[object Object]
+
+
+[INTRO]
+Neo4j comes as standalone server. Easy to link:/download[download], install and start. It has an interactive and friendly Web-Interface and a fast, transactional HTTP-Endpoint for Cypher. Most of the drivers support the Neo4j server. The browser contains getting started guides for Cypher and the Web-UI as well as the movie example dataset.

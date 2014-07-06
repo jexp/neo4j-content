@@ -1,0 +1,13 @@
+== Neo4j-js
+:type: driver
+:path: /c/driver/neo4j_js
+:author: Bret Copeland
+:tags: rest,javascript
+:url: https://github.com/bretcope/neo4j-js
+image::http://assets.neo4j.org/img/languages/js.gif[Neo4j-js,role=logo]
+:forum: https://github.com/bretcope/neo4j-js/issues
+:source: https://github.com/bretcope/neo4j-js
+:docs: https://github.com/bretcope/neo4j-js/blob/master/docs/Documentation.md
+:examples: https://github.com/bretcope/neo4j-js#usage
+
+A Node.js (pure JavaScript) client library for accessing neo4j databases with batch support.

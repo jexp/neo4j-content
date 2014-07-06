@@ -1,0 +1,12 @@
+== Neo4j Stable Release 1.9.8
+:type: version
+:url: http://neo4j.com/blog/neo4j-1-9-4-installer-check-desktop-launcher-check/
+image::http://assets.neo4j.org/img/still/install.gif[Neo4j Stable Release 1.9.8,role=thumbnail]
+:version: 1.9.8
+:stability: stable
+:date: June 19, 2014
+:src: http://player.vimeo.com/video/53838744
+
+
+[INTRO]
+General Availability

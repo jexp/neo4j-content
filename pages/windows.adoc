@@ -1,0 +1,11 @@
+== Windows Installation
+:type: page
+:path: /download/windows
+image::http://assets.neo4j.org/img/logo/Windows_8.png[Windows Installation,role=thumbnail]
+:actionText: Install on Windows
+:featured: [object Object],[object Object]
+:related: [object Object],dotnet,[object Object],[object Object],azure
+
+
+[INTRO]
+Installing Neo4j on Windows from scratch is just a few steps away

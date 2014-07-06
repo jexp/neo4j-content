@@ -1,0 +1,9 @@
+== DataNucleus Neo4j Plugin
+:type: driver
+:path: /c/driver/datanucleus
+:author: @datanucleus
+:tags: java,jvm,jpa,ogm
+:url: http://www.datanucleus.org/plugins/store.neo4j.html
+image::http://assets.neo4j.org/img/languages/datanucleus.png[DataNucleus Neo4j Plugin,role=logo]
+
+datanucleus-neo4j provides persistence of Java objects to Neo4j. It builds on top of the basic persistence provided by datanucleus-core.

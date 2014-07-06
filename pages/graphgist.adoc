@@ -1,0 +1,15 @@
+== Live, Interactive Graph Models - Neo4j GraphGist
+:type: page
+:path: /learn/graphgist
+:featured: [object Object],[object Object],[object Object]
+:related: modeling,function () {
+        var video = exports.content.videos[id.toString()];
+        if (!video) console.log("video",id,false);
+        return video;
+    }
+:actionText: Model your Graph
+
+
+[INTRO]
+With Neo4j GraphGists you can describe and model your domain in a simple text file and render it as a rich, interactive page in any browser. Perfect to document a specific domain, use-case, question or graph problem.
+ To learn about interesting existing models created by other Neo4j users look at the impressive collection that is link:#related[listed below].

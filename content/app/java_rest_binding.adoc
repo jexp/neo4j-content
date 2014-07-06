@@ -1,0 +1,7 @@
+== Neo4j Java-REST-binding
+:type: app
+:path: /c/app/java_rest_binding
+:author: @mesirii
+:url: https://github.com/neo4j/java-rest-binding
+
+Java Rest Binding which offers a Java API for the Neo4j-Server, built on jersey-client

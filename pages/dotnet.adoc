@@ -1,0 +1,10 @@
+== Neo4j and .net
+:type: page
+:path: /develop/dotnet
+image::http://assets.neo4j.org/img/languages/dotnet.png[Neo4j and .net,role=thumbnail]
+:featured: [object Object]
+:related: [object Object],[object Object],[object Object],[object Object],tathamoddie,[object Object],[object Object],[object Object],[object Object],[object Object]
+
+
+[INTRO]
+Thanks to our partners at readify, the .net story for Neo4j is much better than everyone who sees the 4j suffix would imagine.

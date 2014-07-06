@@ -1,0 +1,9 @@
+== Cypher Reference
+:type: link
+:url: http://docs.neo4j.org/chunked/milestone/cypher-query-lang.html
+image::http://assets.neo4j.org/img/logo/cypher_small.gif[Cypher Reference,role=thumbnail]
+:actionText: Cypher Manual
+
+
+[INTRO]
+Cypher is a declarative graph query language that allows for expressive and efficient querying and updating of the graph store without having to write traversals through the graph structure in code.

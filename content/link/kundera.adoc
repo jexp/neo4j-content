@@ -1,0 +1,9 @@
+== Kundera
+:type: link
+:url: https://github.com/impetus-opensource/Kundera/wiki/Graph-Database-Support
+image::https://github.com/impetus-opensource/Kundera/wiki/images/imdb_polyglot.jpg[Kundera,role=thumbnail]
+
+
+[INTRO]
+
+The well known Graph visualization tool Gephi has a http://gephi.org/tag/neo4j/[plugin for importing Neo4j] Databases which can then be visualized and rendered with the full power of Gephi's engines.

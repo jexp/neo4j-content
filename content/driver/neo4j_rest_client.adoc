@@ -1,0 +1,10 @@
+== Neo4j Rest Client
+:type: driver
+:path: /c/driver/neo4j_rest_client
+:author: @versae
+:tags: python,rest
+:url: http://readthedocs.org/docs/neo4j-rest-client/en/latest/
+image::http://assets.neo4j.org/img/languages/python.png[Neo4j Rest Client,role=logo]
+:source: https://github.com/versae/neo4j-rest-client
+
+Object-oriented Python library to interact with Neo4j standalone REST server

@@ -1,0 +1,8 @@
+== Assimilation Monitoring
+:type: app
+:path: /c/app/assim_mon
+:author: Alan Robertson
+:url: http://assimmon.org/
+image::http://assets.neo4j.org/img/logo/assimmon.gif[Assimilation Monitoring,role=logo]
+
+An open source project that discovers your infrastructure and creates a graph around it - and keeps it continually up to date without setting off any network security alarms

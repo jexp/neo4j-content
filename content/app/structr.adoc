@@ -1,0 +1,8 @@
+== Structr
+:type: app
+:path: /c/app/structr
+:author: @amorgner
+:url: http://structr.org/home
+image::http://assets.neo4j.org/img/apps/structr.gif[Structr,role=logo]
+
+A Content Management System, build on Neo4j. And a fast and powerful REST backend server to be used on its own.

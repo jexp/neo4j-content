@@ -1,0 +1,11 @@
+== Connected
+:type: book
+:path: /c/book/connected
+:author: Nicholas A. Christakis and James H. Fowler
+:url: http://www.amazon.com/gp/product/0316036137/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0316036137&linkCode=as2&tag=neotech05-20
+image::http://assets.neo4j.org/img/books/connected.png[Connected,role=logo]
+:price: List Price: $15.99
+
+
+[INTRO]
+The Surprising Power of Our Social Networks and How They Shape Our Lives — How Your Friends' Friends' Friends Affect Everything You Feel, Think, and DoRenowned scientists Christakis and Fowler present compelling evidence for our profound influence on one another's tastes, health, wealth, happiness, beliefs, even weight, as they explain how social networks form and how they operate.

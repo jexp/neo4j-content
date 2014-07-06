@@ -1,0 +1,11 @@
+== Neo4j is downloading, you are almost there
+:type: page
+:path: /download_thanks
+:featured: installing_neo4j
+:related: neo4j,trainings,other_versions,[object Object]
+
+
+[INTRO]
+Your download should have started, if not please click the link. Enjoy the video in the meantime.function (params) {
+            return render.include("_download_thanks", params);
+        }

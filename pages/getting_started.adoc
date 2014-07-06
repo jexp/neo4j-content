@@ -1,0 +1,22 @@
+== Get Started with Neo4j
+:type: page
+:path: /develop/getting_started
+image::http://i.imgur.com/uf5EHWk.png[Get Started with Neo4j,role=thumbnail]
+:featured: [object Object],function () {
+        var video = exports.content.videos[id.toString()];
+        if (!video) console.log("video",id,false);
+        return video;
+    },[object Object],function () {
+        var video = exports.content.videos[id.toString()];
+        if (!video) console.log("video",id,false);
+        return video;
+    }
+:related: download,[object Object],function () {
+        var video = exports.content.videos[id.toString()];
+        if (!video) console.log("video",id,false);
+        return video;
+    },drivers,maxdemarzi,markhneedham,rvanbruggen,kennybastani,mesirii,develop
+
+
+[INTRO]
+Developing on Neo4j is a breeze. We've put together a collection of resources to help you start building your applications using the power of the graph.

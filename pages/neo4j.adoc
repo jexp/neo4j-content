@@ -1,0 +1,15 @@
+== What is Neo4j?
+:type: page
+:path: /learn/neo4j
+image::http://assets.neo4j.org/img/neo4j/visually_refcard_small.gif[What is Neo4j?,role=thumbnail]
+:actionText: Study this
+:featured: [object Object],function () {
+        var video = exports.content.videos[id.toString()];
+        if (!video) console.log("video",id,false);
+        return video;
+    }
+:related: [object Object],graphdatabase,[object Object],[object Object],[object Object],nosql,licensing,[object Object],neo4j_server,[object Object],[object Object]
+
+
+[INTRO]
+Neo4j is a graph database, reliable and fast for managing and querying highly connected data.

@@ -1,0 +1,11 @@
+== node-neo4j-embedded
+:type: driver
+:path: /c/driver/node_neo4j_embedded
+:author://twitter.com/@whitefrog_de[Jochen Weis]
+:tags: js,jvm,nodejs
+:url: http://joewhite86.wordpress.com/2013/07/08/introducing-neo4j-embedded-a-neo4j-driver-for-node-js/
+image::http://assets.neo4j.org/img/languages/nodejs.png[node-neo4j-embedded,role=logo]
+:docs: http://docs.whitefrog.de/neo4j-embedded/
+:source: https://github.com/joewhite86/node-neo4j-embedded
+
+Node.js driver for the embedded Neo4j Database. Supports HA Setups, API is built to be as close to the Java API as possible.

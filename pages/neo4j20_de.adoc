@@ -1,0 +1,18 @@
+== Neo4j 2.0 - Eine Graphdatenbank für alle
+:type: page
+:path: /learn/books/neo4j20_de
+image::http://assets.neo4j.org/img/books/neo4j20_de_small.jpg[Neo4j 2.0 - Eine Graphdatenbank für alle,role=thumbnail]
+:featured: [object Object]
+:related: [object Object],trainings_DE,conferences_DE,meetups_DE,function () {
+        var video = exports.content.videos[id.toString()];
+        if (!video) console.log("video",id,false);
+        return video;
+    },function () {
+        var video = exports.content.videos[id.toString()];
+        if (!video) console.log("video",id,false);
+        return video;
+    }
+
+
+[INTRO]
+Das einzige deutsche Buch zu Neo4j, umfassend und aktuell für Version 2.0

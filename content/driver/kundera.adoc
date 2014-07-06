@@ -1,0 +1,13 @@
+== Kundera
+:type: driver
+:path: /c/driver/kundera
+:author: Amresh Amry
+:tags: jvm,jpa,ogm
+:url: https://github.com/impetus-opensource/Kundera
+image::http://mail.varindia.com/images/Impetus_Logo.gif[Kundera,role=logo]
+:forum: http://groups.google.com/group/kundera-discuss
+:source: https://github.com/impetus-opensource/Kundera
+:docs: https://github.com/impetus-opensource/Kundera/wiki/Graph-Database-Support
+:examples: http://github.com/impetus-opensource/Kundera-Examples
+
+Kundera is a JPA 2.0 compliant, object-datastore mapping library for NoSQL datastores.

@@ -1,0 +1,9 @@
+== Recommendation Engine with Neo4j 2.0
+:type: video
+:path: /c/video/neo4j_recommendation_engine
+image::http://assets.neo4j.org/img/still/browser_get_some_data.png[Recommendation Engine with Neo4j 2.0,role=thumbnail]
+:src: //www.youtube.com/embed/qbZ_Q-YnHYo
+
+
+[INTRO]
+In just 2 minutes, we show you how to build a recommendation engine using Neo4j-Browser 2.0 and the powerful graph query language Cypher.

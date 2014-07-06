@@ -1,0 +1,9 @@
+== Transactional Cypher HTTP Endpoint
+:type: driver
+:path: /c/driver/neo4j_rest
+:author: @neo4j
+:tags: rest,cypher,transactional
+:url: http://docs.neo4j.org/chunked/milestone/rest-api-transactional.html
+image::http://assets.neo4j.org/img/languages/neo4jrest.png[Transactional Cypher HTTP Endpoint,role=logo]
+
+A transactional endpoint for Cypher that allows sending many statements with parameters at once and reading writing to a open transaction until it is committed or rolled back.

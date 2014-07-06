@@ -1,0 +1,9 @@
+== Mark Needhams collection of using Cypher for real world problems
+:type: link
+:path: /c/link/mark_cypher
+:author: markhneedham
+:url: http://www.markhneedham.com/blog/tag/cypher/
+
+
+[INTRO]
+Mark uses use-cases from mapping colleagues and projects to football games and stadiums to explain different aspects of Cypher in a very descriptive manner.

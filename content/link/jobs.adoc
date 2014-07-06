@@ -1,0 +1,9 @@
+== Join us! We're hiring
+:type: link
+:url: https://github.com/neo4j/neo4j/wiki/Jobs
+image::https://camo.githubusercontent.com/7f97429e763bd14e2e7b8306175d43c4b1c43650/687474703a2f2f696d6167652e73707265616473686972742e636f6d2f696d6167652d7365727665722f696d6167652f64657369676e2f333032323637342f747970652f706e672f77696474682f3238302f6865696768742f323830[Join us! We're hiring,role=thumbnail]
+:key: jobs
+
+
+[INTRO]
+As our team grows we're looking for passionate people around the world to join us. Become part of THE Neo4j-Graph.

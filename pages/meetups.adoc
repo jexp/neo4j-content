@@ -1,0 +1,14 @@
+== Worldwide Meetups
+:type: page
+:path: /participate/events/meetups
+image::http://assets.neo4j.org/img/logo/meetup.jpg[Worldwide Meetups,role=thumbnail]
+:prev: events
+:next: webinars
+:actionText: Find a meetup
+:featured: [object Object]
+:related: 
+
+
+[INTRO]
+Neo4j meetups are worldwide. Make a connection or start a new group. 
+Find the next meetup events in link:/participate/events/meetups_US[the US], or in Europe in link:/participate/events/meetups_EU[English] or link:/participate/events/meetups_DE[German].

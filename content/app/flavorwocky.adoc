@@ -1,0 +1,11 @@
+== Flavorwocky
+:type: app
+:path: /c/app/flavorwocky
+:author: @luannem
+:url: http://www.flavorwocky.com
+image::http://assets.neo4j.org/img/apps/flavorwocky.png[Flavorwocky,role=logo]
+:source: 
+:docs: 
+:site: 
+
+A whimsical look at food pairing, graph-style.

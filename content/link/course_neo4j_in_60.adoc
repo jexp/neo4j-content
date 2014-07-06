@@ -1,0 +1,9 @@
+== Online Course: Neo4j in under 60 minutes
+:type: link
+:author: luannem,rhetonik
+:url: http://www.gyaanexchange.com/online/neo4j-in-under-60-minutes/
+image::http://assets.neo4j.org/img/logo/gyaanexchange.png[Online Course: Neo4j in under 60 minutes,role=thumbnail]
+
+
+[INTRO]
+In this class http://twitter.com/luannem[Luanne Misquitta] and http://twitter.com/rhetonik[Nikhil Lanjewar] introduce you to the basics of Neo4j and how you can quickly get started using NOSQL on your projects.

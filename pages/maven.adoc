@@ -1,0 +1,10 @@
+== Maven Dependency
+:type: page
+:path: /download/maven
+:actionText: Add dependency
+:featured: [object Object]
+:related: [object Object]
+
+
+[INTRO]
+If you want to include Neo4j in the build of your JVM language project (Java,Scala, Groovy, Clojure) just add the correct dependency

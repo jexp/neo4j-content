@@ -1,0 +1,11 @@
+== How to build a Route Planner
+:type: app
+:path: /c/app/route_planner
+:author://twitter.com/@hasCode[Micha Kops]
+:url: http://www.hascode.com/2012/01/neo4j-graph-database-tutorial-how-to-build-a-route-planner-and-other-examples/
+image::http://assets.neo4j.org/img/apps/flavorwocky.png[How to build a Route Planner,role=logo]
+:source: https://bitbucket.org/hascode/neo4j-tutorial
+:docs: 
+:site: 
+
+Often in the life of developer’s life there is a scenario where using a relational database tends to get complicated or sometimes even slow – especially when there are fragments with multiple relationships or multiple connections present. A possible solution might be to switch from a relational database to a graph database – and – neo4j is our tool of choice here. In the following tutorial we’re going to implement several examples to demonstrate the strengths of a graph database .. from a route planner to a social graph.

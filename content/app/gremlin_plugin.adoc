@@ -1,0 +1,8 @@
+== Neo4j Server Gremlin plugin
+:type: app
+:path: /c/app/gremlin_plugin
+:author: @peterneubauer
+:url: https://github.com/neo4j-contrib/gremlin-plugin
+image::https://github.com/tinkerpop/gremlin/raw/master/doc/images/gremlin-logo.png[Neo4j Server Gremlin plugin,role=logo]
+
+A Neo4j Server plugin to execute Gremlin queries against the Neo4j REST API.

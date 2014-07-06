@@ -1,0 +1,9 @@
+== Neo4j Customers & Use-Cases
+:type: link
+:url: http://www.neotechnology.com/neo4j-use-cases/
+image::http://www.neotechnology.com/wp-content/uploads/2013/01/WP-NetMgmt_sm.png[Neo4j Customers & Use-Cases,role=thumbnail]
+:key: use-cases
+
+
+[INTRO]
+Principal uses of Neo4j include social, recommendations, bioinformatics, fraud detection, network management, authorization and access control, content management, and parcel routing, with new ones being added regularly.

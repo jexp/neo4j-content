@@ -1,0 +1,12 @@
+== Neo4j Grails Plugin
+:type: driver
+:path: /c/driver/grails
+:author: @darthvader42
+:tags: groovy,grails,jvm,ogm
+:url: http://www.grails.org/plugin/neo4j
+image::http://assets.neo4j.org/img/languages/grails.png[Neo4j Grails Plugin,role=logo]
+:site: http://www.grails.org/plugin/neo4j
+:docs: http://springsource.github.com/grails-data-mapping/neo4j/manual/index.html
+:source: https://github.com/grails/grails-data-mapping/tree/master/grails-datastore-gorm-neo4j
+
+A plugin that integrates the Neo4j graph database into Grails, providing a GORM API onto it

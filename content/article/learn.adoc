@@ -1,0 +1,21 @@
+== What is Neo4j?
+:type: article
+:path: /c/article/learn
+image::http://assets.neo4j.org/img/neo4j/visually_refcard.gif[What is Neo4j?,role=img]
+
+Neo4j is an open-source link:/learn/graphdatabase[graph database] supported by http://neotechnology.com/[Neo Technology].
+ 
+Neo4j stores data in nodes connected by directed, typed relationships with properties on both, also known as a link:/learn/graphdatabase[Property Graph].
+ 
+==== Main features
+
+ 
+* _intuitive_, using a graph model for data representation</li> 
+* _reliable_, with full ACID transactions</li> 
+* _durable and fast_, using a custom disk-based, native storage engine</li> 
+* _massively scalable_, up to several billion nodes/relationships/properties</li> 
+* _highly-available_, when distributed across multiple machines</li> 
+* _expressive_, with a powerful, human readable link:/learn/cypher[graph query language]</li> 
+* _fast_, with a powerful traversal framework for high-speed graph queries</li> 
+* _embeddable_, with a few small jars</li> 
+* _simple_, accessible by a convenient http://docs.neo4j.org/chunked/milestone/rest-api.html[REST interface] or an object-oriented Java http://docs.neo4j.org/chunked/milestone/javadocs/[API]</li> 

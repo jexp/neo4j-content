@@ -1,0 +1,11 @@
+== Graph DB 101
+:type: video
+:path: /c/video/graphdb101
+:author: akollegger
+image::http://assets.neo4j.org/img/still/graphdb-intro.png[Graph DB 101,role=thumbnail]
+:key: graphdb101
+:src: http://player.vimeo.com/video/50787208
+
+
+[INTRO]
+A pleasant stroll through general concepts, and Neo4j particulars.

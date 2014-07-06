@@ -1,0 +1,17 @@
+== The Cypher track
+:type: track
+:path: /tracks/cypher_track_start
+image::http://assets.neo4j.org/img/logo/cypher_small.gif[The Cypher track,role=thumbnail]
+:actionText: Start
+:next: cypher,cypher_track_use
+:prev: 
+:featured: [object Object],[object Object]
+:related: [object Object],[object Object],function () {
+        var video = exports.content.videos[id.toString()];
+        if (!video) console.log("video",id,false);
+        return video;
+    },[object Object],[object Object]
+
+
+[INTRO]
+This path explores the incredible usefulness of the Cypher Graph Query language, which allows you work with Neo4j in an expressive and powerful way across all APIs.

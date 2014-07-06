@@ -1,0 +1,13 @@
+== Enterprise Features
+:type: article
+:url: http://www.neotechnology.com/price-list/
+image::http://assets.neo4j.org/img/logo/neotechnology_small.png[Enterprise Features,role=img]
+
+
+[INTRO]
+Neo4j Enterprise Edition comes with features that allow for deployment in your mission critical business applications.
+. *High-Performance Cache*. Queries can run up to 10x faster than the Community Edition under high query workloads and with large graphs</li> 
+. *Horizontal scalability with Neo4j Clustering* provides http://www.neotechnology.com/neo4j-scales-for-the-enterprise/[predictable scalability], by guaranteeing that every query runs in-instance, with maximum performance</li> 
+. *High-availability and online backups* safeguard your data so that your business can keep running under a wide range of scenarios</li> 
+. *Cache-based sharding* is a technique made possible by Neo4j’s clustering technology, which lets you shard your graph in memory without sharding your data on disk</li> 
+. *Advanced monitoring* provides operational metrics not available in the Community Edition, making it easier to operate your system and keep it running healthy</li> 

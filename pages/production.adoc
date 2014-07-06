@@ -1,0 +1,10 @@
+== Going into Production
+:type: page
+:path: /learn/production
+:featured: [object Object]
+:actionText: Go into production
+:related: licensing,[object Object],[object Object],[object Object],ops,[object Object]
+
+
+[INTRO]
+In order to run Neo4j in production scenarios, there are a number of aspects that need to be covered. Here you will find some resources on putting Neo4j into production.

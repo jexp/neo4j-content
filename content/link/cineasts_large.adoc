@@ -1,0 +1,12 @@
+== Cineasts Movies & Actors (12.3MB)
+:type: link
+:path: /c/link/cineasts_large
+:author: mesirii
+:url: http://spring.neo4j.org/tutorial
+:github: https://github.com/SpringSource/spring-data-neo4j/tree/master/spring-data-neo4j-examples/cineasts
+image::http://assets.neo4j.org/img/spring/cineasts.png[Cineasts Movies & Actors (12.3MB),role=img]
+:actionText: Like a Movie
+
+
+[INTRO]
+Full dataset (12k movies, 50k actors) of the Spring Data Neo4j Cineasts.net tutorial. http://example-data.neo4j.org/files/cineasts_12k_movies_50k_actors.zip[<span class='icon-download-alt'>&nbsp;</span>]

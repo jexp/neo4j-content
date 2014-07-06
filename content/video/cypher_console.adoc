@@ -1,0 +1,10 @@
+== Introduction to the Cypher Console
+:type: video
+:path: /c/video/cypher_console
+:author: peterneubauer
+image::http://assets.neo4j.org/img/still/cypher_console_in_5_mins.gif[Introduction to the Cypher Console,role=thumbnail]
+:src: http://player.vimeo.com/video/56097037
+
+
+[INTRO]
+A five minute introduction to the versatile http://console.neo4j.org[console.neo4j.org] cypher console which can be used for exploration, sharing, testing, bug reporting and much more.

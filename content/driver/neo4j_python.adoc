@@ -1,0 +1,10 @@
+== Neo4j Python
+:type: driver
+:path: /c/driver/neo4j_python
+:author: @neo4j
+:tags: python,jvm
+:url: http://pypi.python.org/pypi/neo4j-embedded
+image::http://assets.neo4j.org/img/languages/python.png[Neo4j Python,role=logo]
+:docs: http://docs.neo4j.org/drivers/python-embedded/snapshot/
+
+The JVM based Python integration for Neo4j uses JPype. More details in the http://docs.neo4j.org/drivers/python-embedded/snapshot/[Neo4j manual.]

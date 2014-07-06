@@ -1,0 +1,12 @@
+== Hubway Data Challenge (50MB)
+:type: link
+:path: /c/link/hubway
+:author: mesirii
+:url: http://neo4j.com/blog/using-spring-data-neo4j-for-the-hubway-data-challenge/
+:github: https://github.com/jexp/hubway-sdn
+image::http://hubwaydatachallenge.org/static/img/hubway-logo.png[Hubway Data Challenge (50MB),role=img]
+:actionText: Ride a bike
+
+
+[INTRO]
+Hubway is a bike sharing service. The challenge data consists 95 Boston stations and 500k bike rides. http://example-data.neo4j.org/files/hubway_data_challenge_boston.zip[<span class='icon-download-alt'>&nbsp;</span>]

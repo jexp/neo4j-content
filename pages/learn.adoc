@@ -1,0 +1,10 @@
+== Learn
+:type: page
+:path: /learn
+image::http://assets.neo4j.org/img/neo4j/visually_refcard_small.gif[Learn,role=thumbnail]
+:featured: [object Object],[object Object]
+:related: graphdatabase,neo4j,nosql,neo4j_server,use_cases,[object Object],trainings,getting_started,tracks,cypher,modeling,[object Object],production,licensing,[object Object],[object Object],scientific
+
+
+[INTRO]
+Learn about concepts behind Neo4j, graph databases, NOSQL and start to dive into our Cypher query language.

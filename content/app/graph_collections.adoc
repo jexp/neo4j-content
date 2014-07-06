@@ -1,0 +1,7 @@
+== Neo4j Graph-Collections
+:type: app
+:path: /c/app/graph_collections
+:author: @peterneubauer
+:url: https://github.com/neo4j/graph-collections
+
+Graph Collections a set of in-graph representations of typical data structures, like lists, trees etc.

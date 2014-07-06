@@ -1,0 +1,9 @@
+== Neo4js
+:type: driver
+:path: /c/driver/neo4js
+:author: @neo4j
+:tags: js,rest,nodejs
+:url: https://github.com/neo4j/neo4js
+image::http://assets.neo4j.org/img/languages/js.gif[Neo4js,role=logo]
+
+Neo4j REST client for JavaScript, used in Neo4j Web-UI, makes use of promises to handle deferred responses. Needs jQuery to run.

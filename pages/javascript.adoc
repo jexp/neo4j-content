@@ -1,0 +1,10 @@
+== Neo4j and Javascript
+:type: page
+:path: /develop/javascript
+image::http://assets.neo4j.org/img/languages/js.gif[Neo4j and Javascript,role=thumbnail]
+:featured: [object Object]
+:related: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],visualize
+
+
+[INTRO]
+Javascript and friends are the new love-child of developers. That's why people love to use Neo4j from Node.js and the browser.

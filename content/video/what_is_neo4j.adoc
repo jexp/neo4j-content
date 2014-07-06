@@ -1,0 +1,11 @@
+== What is a Graph Database? What is Neo4j?
+:type: video
+:path: /c/video/what_is_neo4j
+:author: Andreas Kollegger
+image::http://assets.neo4j.org/img/still/what_isa_graphdb.jpg[What is a Graph Database? What is Neo4j?,role=thumbnail]
+:key: what_is_neo4j
+:src: https://player.vimeo.com/video/77866447
+
+
+[INTRO]
+Andreas Kollegger explains what kinds of questions you can answer with a graph database. It's not only the big sites that have graph questions but EVERYONE! Neo4j is the tool that can help YOU to solve the ones that are important to you. Learn how with our link:/learn/online_course[online training].

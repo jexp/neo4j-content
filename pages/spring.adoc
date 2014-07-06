@@ -1,0 +1,11 @@
+== Spring Data Neo4j
+:type: page
+:path: /develop/spring
+image::http://assets.neo4j.org/img/languages/sdn.png[Spring Data Neo4j,role=thumbnail]
+:actionText: Go ahead
+:featured: [object Object],[object Object]
+:related: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+
+
+[INTRO]
+Spring Data Neo4j was the founding project of Spring Data and integrates Neo4j very well with the Spring Framework.

@@ -1,0 +1,12 @@
+== CypherNet
+:type: driver
+:path: /c/driver/cyphernet
+:author: @mtranter
+:tags: dotnet,rest,cypher,transactional
+:url: http://mtranter.com/2013/09/21/cypher-net-a-neo4j-cypher-api/
+image::http://assets.neo4j.org/img/languages/dotnet.png[CypherNet,role=logo]
+:source: https://github.com/mtranter/CypherNet
+:docs: https://github.com/mtranter/CypherNet#cyphernet
+:site: http://mtranter.com/2013/09/21/cypher-net-a-neo4j-cypher-api/
+
+A .Net API for the Neo4j HTTP Transactional Endpoint. (v2.0.0) Exposes strongly typed Graph Query API based on the Neo4j Cypher Query Language.

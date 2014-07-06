@@ -1,0 +1,11 @@
+== Snapshot Version 2.1-SNAPSHOT
+:type: version
+:path: /c/version/snapshot
+:stability: snapshot
+:key: snapshot
+:version: 2.1-SNAPSHOT
+:date: 2013
+
+
+[INTRO]
+Unstable Snapshot, for resolution issue verification

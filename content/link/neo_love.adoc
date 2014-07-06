@@ -1,0 +1,12 @@
+== Neo Love (1.6MB)
+:type: link
+:path: /c/link/neo_love
+:author: maxdemarzi
+:url: http://maxdemarzi.com/2013/04/19/match-making-with-neo4j/
+:github: https://github.com/maxdemarzi/neo_love
+image::http://maxdemarzidotcom.files.wordpress.com/2013/01/groucho_marx.jpg?w=128&h=128[Neo Love (1.6MB),role=img]
+:actionText: Bring the Love
+
+
+[INTRO]
+Neo4j brings the love with a sample dating site. https://dl.dropboxusercontent.com/u/57740873/neo_love.graph.db.zip[<span class='icon-download-alt'>&nbsp;</span>]

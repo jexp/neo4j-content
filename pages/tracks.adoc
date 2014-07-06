@@ -1,0 +1,10 @@
+== Neo4j learning tracks
+:type: page
+:path: /learn/tracks
+:featured: 
+:actionText: Choose your track
+:related: java,cypher_track_start
+
+
+[INTRO]
+This is the starting point for a number of different tracks to learn more about Neo4j. Follow a track that you are interested in to learn more about different aspects of Neo4j.

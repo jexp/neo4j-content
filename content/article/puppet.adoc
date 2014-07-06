@@ -1,0 +1,14 @@
+== Install with Puppet
+:type: article
+:path: /c/article/puppet
+image::http://www.lennu.net/images/blog/2012-11-01/1/1.png[Install with Puppet,role=thumbnail]
+
+
+[INTRO]
+Setup *only* Neo4j using Puppet https://github.com/neo4j-contrib/neo4j-puppet/blob/master/README.md[(source)]function (params) {
+                return render.render(
+                    "<blockquote class='external markdown'>\
+                                <%-: content.puppet | md %>\
+                            </blockquote>\
+                ", params)
+            }

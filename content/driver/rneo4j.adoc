@@ -1,0 +1,11 @@
+== rneo4j
+:type: driver
+:path: /c/driver/rneo4j
+:author: [object Object]
+:tags: R,rest,cypher,transactional
+:url: https://github.com/nicolewhite/Rneo4j
+image::http://dev.assets.neo4j.com.s3.amazonaws.com/wp-content/uploads/2014/06/Rlogo.jpg[rneo4j,role=logo]
+:source: https://github.com/nicolewhite/Rneo4j
+:docs: http://nicolewhite.github.io/r/2014/05/30/demo-of-rneo4j-part1.html
+
+An R package that allows you to easily populate a Neo4j graph database from your R environment.

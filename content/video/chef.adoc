@@ -1,0 +1,10 @@
+== Install Neo4j-server with Chef
+:type: video
+:author://twitter.com/mulpat[Patrick Mulder]
+:url: http://thinkingonthinking.com/An-experiment-with-Vagrant-and-Neo4J/
+:actionText: Cook it
+:src: http://player.vimeo.com/video/55085049
+
+
+[INTRO]
+Patrick Mulder shows how to setup an automatic installation of http://thinkingonthinking.com/An-experiment-with-Vagrant-and-Neo4J/[Neo4j-Server with Chef and Vagrant] and hosts the https://github.com/mulderp/chef-neo4j[cookbook on github]

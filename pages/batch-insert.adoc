@@ -1,0 +1,6 @@
+== High performance imports with the non-transactional Batch-Inserter API's
+:type: page
+:path: /develop/import/batch-insert
+:featured: 
+:related: 
+

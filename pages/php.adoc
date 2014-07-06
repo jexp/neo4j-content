@@ -1,0 +1,14 @@
+== Neo4j and Php
+:type: page
+:path: /develop/php
+image::http://assets.neo4j.org/img/languages/php.png[Neo4j and Php,role=thumbnail]
+:featured: function () {
+        var video = exports.content.videos[id.toString()];
+        if (!video) console.log("video",id,false);
+        return video;
+    }
+:related: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+
+
+[INTRO]
+The easy web language can access Neo4j via the the Neo4j Server or Remote APIs

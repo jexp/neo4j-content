@@ -1,0 +1,14 @@
+== Use Cypher
+:type: track
+:path: /tracks/cypher_track_use
+image::http://assets.neo4j.org/img/logo/cypher_small.gif[Use Cypher,role=thumbnail]
+:actionText: Begin to use Cypher
+:next: cypher_track_develop
+:prev: cypher,cypher_track_start
+:featured: [object Object],function () {
+        var video = exports.content.videos[id.toString()];
+        if (!video) console.log("video",id,false);
+        return video;
+    }
+:related: [object Object],[object Object],[object Object],[object Object],neoclipse
+

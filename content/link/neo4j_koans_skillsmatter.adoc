@@ -1,0 +1,10 @@
+== Neo4j-Koans at Skillsmatter
+:type: link
+:author: iansrobinson,jimwebber
+:url: http://skillsmatter.com/course/nosql/neo4j-tutorial
+image::http://assets.neo4j.org/img/logo/skillsmatter.gif[Neo4j-Koans at Skillsmatter,role=thumbnail]
+:github: https://github.com/jimwebber/neo4j-tutorial
+
+
+[INTRO]
+This intensive, highly practical 2-day Neo4j course will provide you with the skills required to become effective with graphs and productive with Neo4j. Join this course to learn Neo4j's excellent APIs and Cypher query language and how you can use the world's leading graph database to manage and query sophisticated connected data.

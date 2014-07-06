@@ -1,0 +1,10 @@
+== JavaScript D3.js
+:type: link
+:url: http://d3js.org/
+image::http://assets.neo4j.org/img/still/d3_network.png[JavaScript D3.js,role=thumbnail]
+image::http://assets.neo4j.org/img/still/d3_network.png[JavaScript D3.js,role=img]
+
+
+[INTRO]
+
+D3 is the most powerful javascript visualization library which supports a large number of visualizations, many of them are usable for graphs as well, http://maxdemarzi.com/tag/visualization-2/[Max De Marzi] covered several of the visualizations on his blog.

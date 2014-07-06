@@ -1,0 +1,10 @@
+== Install Neo4j on EC2
+:type: video
+:path: /c/video/ec2_setup
+:author: peterneubauer
+image::http://assets.neo4j.org/img/still/ec2_install.gif[Install Neo4j on EC2,role=thumbnail]
+:src: http://player.vimeo.com/video/58019458
+
+
+[INTRO]
+Peter Neubauer shows how to install Neo4j on EC2.

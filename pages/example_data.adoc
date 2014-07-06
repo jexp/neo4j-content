@@ -1,0 +1,26 @@
+== Example Datasets
+:type: page
+:path: /develop/example_data
+:featured: [object Object]
+:actionText: Get some data
+:related: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+
+
+[INTRO]
+Prepared data sets for you to explore
+The ZIP-Files contain the content of the <code>graph.db</code> directory. To use them:
+ 
+* Stop your Neo4j server</li> 
+* Extract the file into <code>/path/to/neo/data/graph.db</code></li> 
+* Start the server again</li> 
+* Open the http://localhost:7474[Neo4j Web Interface]</li>
+* Read about the link:/learn/cypher[Cypher] Query Language</li>
+* Follow the source links for some example cypher queries</li>
+ 
+ All data sets are compatible with Neo4j version 1.6 and later. 
+ 
+ You can also point the http://docs.neo4j.org/chunked/milestone/shell.html[neo4j-shell] to the extracted directory to run cypher-queries directly: 
+ 
+----
+/path/to/neo/bin/neo4j-shell -path /path/to/graph.db
+----

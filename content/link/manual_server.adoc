@@ -1,0 +1,9 @@
+== Neo4j Server manual
+:type: link
+:url: http://docs.neo4j.org/chunked/milestone/server-installation.htmlg
+image::http://assets.neo4j.org/img/languages/java.jpg[Neo4j Server manual,role=thumbnail]
+:actionText: Browse the manual
+
+
+[INTRO]
+Neo4j server manual sections

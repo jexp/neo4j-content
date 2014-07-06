@@ -1,0 +1,9 @@
+== Running SDN Tutorial Cineasts
+:type: video
+:path: /c/video/sdn_cineasts
+image::http://assets.neo4j.org/img/spring/cineasts.png[Running SDN Tutorial Cineasts,role=thumbnail]
+:src: http://www.youtube.com/embed/DAJvvchL_oE?rel=0&autoplay=1
+
+
+[INTRO]
+Downloading and running Cineasts the Spring Data Neo4j Tutorial Web Application

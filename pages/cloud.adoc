@@ -1,0 +1,11 @@
+== Neo4j in the Cloud
+:type: page
+:path: /develop/cloud
+image::http://assets.neo4j.org/img/neo4j/neo4j_cloud.png[Neo4j in the Cloud,role=thumbnail]
+:actionText: Neo4j in the Cloud
+:featured: [object Object],ec2
+:related: heroku,linux,azure
+
+
+[INTRO]
+Neo4j can be run in various cloud scenarios and on a number of cloud stacks.

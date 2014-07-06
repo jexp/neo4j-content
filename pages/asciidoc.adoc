@@ -1,0 +1,6 @@
+== Asciidoc examples
+:type: page
+:path: /test/asciidoc
+:featured: [object Object]
+:related: 
+

@@ -1,0 +1,9 @@
+== neo4django
+:type: driver
+:path: /c/driver/neo4django
+:author: @mhluongo
+:tags: python,rest,django,ogm
+:url: https://github.com/scholrly/neo4django
+image::http://assets.neo4j.org/img/languages/django.png[neo4django,role=logo]
+
+neo4django is an Object Graph Mapper (OGM) for Django. Use familiar Django models and queries against Neo4j.

@@ -1,0 +1,8 @@
+== Loading DBPedia into Neo4j with Clojure
+:type: link
+:author: opal_io
+:url: http://blog.opal.io/archive/loading-dbpedia-into-neo4j-with-clojure.html
+
+
+[INTRO]
+This article describes how to load over 82 million relationships from the DBPedia datasets into Neo4j with Clojure.

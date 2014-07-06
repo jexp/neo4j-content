@@ -1,0 +1,12 @@
+== Neoclipse
+:type: page
+:path: /develop/tools/neoclipse
+:author: nawroth,[object Object]
+:tags: workbench,rcp,cypher
+image::http://assets.neo4j.org/img/apps/neoclipse.png[Neoclipse,role=thumbnail]
+:featured: [object Object],[object Object]
+:related: [object Object],[object Object],[object Object],[object Object]
+
+
+[INTRO]
+Neoclipse is a standalone workbench application to interact with Neo4j (database directory or server). It supports Cypher, index searches, visualisation, graph updates. You can https://github.com/neo4j/neoclipse/downloads[download the latest versions here.] 

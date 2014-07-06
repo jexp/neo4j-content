@@ -1,0 +1,5 @@
+== Getting Started Guide on Amazon EC2
+:type: link
+:path: /c/link/ec2_aws_tools
+:url: http://docs.amazonwebservices.com/AWSEC2/latest/GettingStartedGuide/Welcome.html
+

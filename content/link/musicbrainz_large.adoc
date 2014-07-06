@@ -1,0 +1,12 @@
+== The Musicbrainz main entities - large (5.4GB)
+:type: link
+:path: /c/link/musicbrainz_large
+:author: peterneubauer
+:url: http://neo4j.com/blog/musicbrainz-in-neo4j-part-1
+:github: https://github.com/SpringSource/spring-data-neo4j/tree/master/spring-data-neo4j-examples/cineasts
+image::http://2.bp.blogspot.com/--ghj75EWkyc/UnjtpNV657I/AAAAAAAALiU/UYua5dc4fPk/s1600/Screenshot_11_5_13_2_07_PM.png[The Musicbrainz main entities - large (5.4GB),role=img]
+:actionText: Explore music now
+
+
+[INTRO]
+Most of the interesting entities (800,000 Artists, 12,000,000 Tracks, 1,200,000 Releases, 75,000 Record Labels) from the http://musicbrainz.org[Musicbrainz] dataset. http://example-data.neo4j.org/files/musicbrainz_neo_20.tar.bz2[<span class='icon-download-alt'>&nbsp;</span>]

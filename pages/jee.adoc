@@ -1,0 +1,8 @@
+== Neo4j for Java Enterprise Edition developers
+:type: page
+:path: /develop/jee
+:related: [object Object]
+
+
+[INTRO]
+For JEE developers, there are a number of projects making Neo4j available in JEE environments.

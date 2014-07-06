@@ -1,0 +1,9 @@
+== High Availability
+:type: video
+:path: /c/video/ha
+image::http://assets.neo4j.org/img/still/ha_video.gif[High Availability,role=thumbnail]
+:src: http://player.vimeo.com/video/51906007
+
+
+[INTRO]
+See how to setup a 3-member cluster for the *new Neo4j HA 1.5* running on a single machine.

@@ -1,0 +1,10 @@
+== Partner Graph
+:type: page
+:path: /learn/partners
+:actionText: Read more
+:featured: [object Object]
+:related: 
+
+
+[INTRO]
+Neo Technology works with a large, worldwide partner network which provide local consulting and training services.

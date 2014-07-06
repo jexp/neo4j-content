@@ -1,0 +1,9 @@
+== Neography
+:type: driver
+:path: /c/driver/neography
+:author: @maxdemarzi
+:tags: ruby,rest
+:url: https://github.com/maxdemarzi/neography/
+image::http://assets.neo4j.org/img/languages/ruby.png[Neography,role=logo]
+
+For native Ruby access to Neo4j, Neography provides a thin, elegant wrapper around the REST API. 

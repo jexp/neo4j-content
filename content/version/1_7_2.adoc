@@ -1,0 +1,7 @@
+== Neo4j Stable Release 1.7.2
+:type: version
+:url: http://neo4j.com/blog/neo4j-1-7-ga-bastutrask-bank-released/
+:version: 1.7.2
+:stability: stable
+:date: May 28, 2012
+

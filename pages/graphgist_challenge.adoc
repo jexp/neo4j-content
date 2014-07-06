@@ -1,0 +1,11 @@
+== Neo4j GraphGist Winter Challenge
+:type: page
+:path: /learn/graphgist_challenge
+:featured: [object Object],[object Object],,[object Object],,[object Object],[object Object],[object Object]
+:related: modeling
+:actionText: Submit and Win
+
+
+[INTRO]
+Model a domain or industry use-case as a great GraphGist and WIN!
+It's easy. Everyone can do it. Challenge runs from Dec 1 to Jan 31 2014.

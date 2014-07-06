@@ -1,0 +1,8 @@
+== Set up your EC2 instance and Neo4j manually
+:type: page
+:path: /develop/ec2_detailed
+image::http://tctechcrunch2011.files.wordpress.com/2012/12/aws-logo-640.jpg?w=200[Set up your EC2 instance and Neo4j manually,role=thumbnail]
+:actionText: Manual Setup
+:featured: [object Object]
+:related: ec2,cloud,[object Object],,ec2_manual,[object Object]
+

@@ -1,0 +1,12 @@
+== Neo4j Stable Release 1.8.3
+:type: version
+:url: http://neo4j.com/blog/neo4j-1-8-1-stability-and-cypher-performance/
+image::http://assets.neo4j.org/img/still/install.gif[Neo4j Stable Release 1.8.3,role=thumbnail]
+:version: 1.8.3
+:stability: stable
+:date: June 27, 2013
+:src: http://player.vimeo.com/video/53838744
+
+
+[INTRO]
+General Availability

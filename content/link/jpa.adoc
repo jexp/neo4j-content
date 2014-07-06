@@ -1,0 +1,10 @@
+== Neo4j JPA driver
+:type: link
+:path: /c/link/jpa
+:author: @alexsmirnov
+:url: https://github.com/alexsmirnov/neo4j-connector
+image::http://assets.neo4j.org/img/languages/java.jpg[Neo4j JPA driver,role=thumbnail]
+
+
+[INTRO]
+Standard JCA 1.6 connector, that can be installed on any Java EE 6 compatible server.

@@ -1,0 +1,13 @@
+== Installing Neo4j
+:type: video
+:path: /c/video/installing_neo4j
+image::http://assets.neo4j.org/img/still/install.gif[Installing Neo4j,role=thumbnail]
+:src: http://player.vimeo.com/video/53838744
+
+
+[INTRO]
+Peter Neubauer guides through the first steps of downloading and running Neo4j.
+If you downloaded the *Windows Installer* run it and then use the *Neo4j Launcher* to start and stop your server. It is also available in the system tray.
+ 
+Otherwise unzip the downloaded distribution. *Please* make sure to have the latest http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html[Oracle JDK 7] installed, if not please follow the link. Start the server with <code>bin/neo4j start</code> from a terminal.
+ Open http://localhost:7474[<code>http://localhost:7474</code>] for the Web UI.

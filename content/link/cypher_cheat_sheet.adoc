@@ -1,0 +1,9 @@
+== Cypher Cheat Sheet (PDF)
+:type: link
+:path: /resources/cypher
+image::http://assets.neo4j.org/img/still/cypher_refcard.gif[Cypher Cheat Sheet (PDF),role=thumbnail]
+:actionText: Download PDF
+
+
+[INTRO]
+Download the Cypher Cheat Sheet as PDF

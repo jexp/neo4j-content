@@ -1,0 +1,14 @@
+== MacOS X - Homebrew - stable
+:type: article
+:path: /c/article/homebrew
+:actionText: Brew It
+
+
+[INTRO]
+Installing the stable version of Neo4j on a Mac with homebrew is really simple. If you have http://mxcl.github.com/homebrew/[homebrew] installed, adding Neo4j to your Mac is simple a:
+ 
+----
+brew update
+brew install neo4j
+neo4j start
+----

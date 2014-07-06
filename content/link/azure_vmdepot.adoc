@@ -1,0 +1,8 @@
+== Step by Step Installation of Neo4j on Azure
+:type: link
+:author://twitter.com/ybukhan[Yuri Bukhan]
+:url: http://de.slideshare.net/neo4j/neo4j-on-azure-step-by-step-22598695
+
+
+[INTRO]
+Yuri Bukhan our Director of Business development, built a VMDepot Neo4j image and put together these step by step instructions on how to install it.

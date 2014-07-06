@@ -1,0 +1,10 @@
+== Neo4j and Ruby
+:type: page
+:path: /develop/ruby
+image::http://assets.neo4j.org/img/languages/ruby.png[Neo4j and Ruby,role=thumbnail]
+:featured: [object Object]
+:related: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],maxdemarzi,ronge,[object Object]
+
+
+[INTRO]
+Neo4j and Ruby have been close friends for a long time. You can use Neo4j embedded via neo4j.rb (JRuby) or Neo4j server via neography and other drivers

@@ -1,0 +1,7 @@
+== GraphConnect 2012
+:type: article
+:path: /c/article/gc2012
+
+
+[INTRO]
+(TODO) Introtext GraphConnect 2012TODO: Content for GraphConnect page

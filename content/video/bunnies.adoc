@@ -1,0 +1,11 @@
+== Graph Databases for Bunnies
+:type: video
+:path: /c/video/bunnies
+:author: rvanbruggen
+image::http://assets.neo4j.org/img/still/bunnies.png[Graph Databases for Bunnies,role=thumbnail]
+:key: bunnies
+:src: http://player.vimeo.com/video/68035671
+
+
+[INTRO]
+Rik collected the http://neo4j.com/blog/graphs-for-bunnies[top ten questions about graph databases] and presents answers in this awesome slidecast.

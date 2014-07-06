@@ -1,0 +1,9 @@
+== Keymaker
+:type: driver
+:path: /c/driver/keymaker
+:author: @therubymug
+:tags: ruby,rest
+:url: http://github.com/therubymug/keymaker
+image::http://assets.neo4j.org/img/languages/ruby.png[Keymaker,role=logo]
+
+A multi-layer REST API Ruby wrapper for the Neo4j graph database built on top of Faraday.

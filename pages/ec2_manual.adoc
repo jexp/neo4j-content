@@ -1,0 +1,5 @@
+== Manually set up an AWS EC2 instance
+:type: page
+:path: /develop/ec2_manual
+:featured: [object Object]
+

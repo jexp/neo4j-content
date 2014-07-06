@@ -1,0 +1,9 @@
+== Learn
+:type: page
+:path: /learn_graphdb
+:featured: [object Object],[object Object],[object Object]
+:related: graphdatabase,neo4j,nosql,tracks,cypher,[object Object],production,licensing,[object Object],[object Object],scientific
+
+
+[INTRO]
+Learn about concepts behind Neo4j, graph databases, NOSQL and start to dive into our Cypher query language.

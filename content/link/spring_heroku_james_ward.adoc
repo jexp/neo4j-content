@@ -1,0 +1,10 @@
+== Graphs in the Cloud: Spring + Neo4j on Heroku
+:type: link
+:author://twitter.com/_JamesWard[James Ward]
+:url: http://www.jamesward.com/2012/05/14/graphs-in-the-cloud-spring-neo4j-on-heroku
+:github: https://github.com/jamesward/hello-java-spring-neo4j
+:src: http://video.neo4j.org/player/DNgFF
+
+
+[INTRO]
+I began by deploying a copy of the Spring MVC + Hibernate template app. Then I made a few modifications to the app to switch the persistence from JPA to Spring Data Neo4j.

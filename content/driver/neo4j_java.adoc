@@ -1,0 +1,9 @@
+== Java API
+:type: driver
+:path: /c/driver/neo4j_java
+:author: @neo4j
+:tags: jvm,java
+:url: http://docs.neo4j.org/chunked/stable/tutorials-java-embedded.html
+image::http://assets.neo4j.org/img/languages/embedded.png[Java API,role=logo]
+
+For intimate access, talk directly to Neo4j&#39;s graph engine directly in your JVM based application. Full feature parity with Neo4j Server, including HA clustering.

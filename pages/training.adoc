@@ -1,0 +1,10 @@
+== Training
+:type: page
+:path: /training
+image::http://assets.neo4j.org/img/events/training.png[Training,role=thumbnail]
+:featured: [object Object],[object Object],trainings
+:related: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+
+
+[INTRO]
+Neo4j trainings and courses allow you to quickly gain practical knowledge into the concepts and usage of Neo4j. These are presented by experienced trainers and Neo4j developers

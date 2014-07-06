@@ -1,0 +1,10 @@
+== Develop with Cypher
+:type: track
+:path: /tracks/cypher_track_develop
+image::http://assets.neo4j.org/img/logo/cypher_small.gif[Develop with Cypher,role=thumbnail]
+:actionText: Start
+:next: java
+:prev: cypher_track_use,cypher
+:featured: 
+:related: [object Object],shell,[object Object],import,[object Object],[object Object],[object Object],[object Object],[object Object]
+

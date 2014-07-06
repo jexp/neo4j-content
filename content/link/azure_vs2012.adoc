@@ -1,0 +1,8 @@
+== How to deploy Neo4j to Azure with Visual Studio 2012 - A step-by-step guide.
+:type: link
+:author: jongallant
+:url: http://blog.jongallant.com/2013/03/neo4j-azure-vs2012.html
+
+
+[INTRO]
+There were a lot of time consuming hurdles, so I thought I’d save you some time and do a very detailed post to help you get from nothing to a fully functioning Neo4j deployment on Azure. 

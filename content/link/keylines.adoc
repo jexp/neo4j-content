@@ -1,0 +1,21 @@
+== Keylines Neo4j Graph Visualization
+:type: link
+:url: http://keylines.com/neo4j
+image::http://www.neotechnology.com/wp-content/uploads/2013/02/Keylines-logo-tex-tagline-medium-300x89.png[Keylines Neo4j Graph Visualization,role=thumbnail]
+image::http://keylines.com/im/product/KeyLinesNeo4j.png[Keylines Neo4j Graph Visualization,role=img]
+
+
+[INTRO]
+KeyLines is a JavaScript toolkit for visualizing networks. It works in all major browsers, and on all platforms, including the iPad. It uses HTML5 but also works on old versions of Internet Explorer.
+==== How does it work?
+
+
+KeyLines will integrate into existing web applications easily and with very little effort.
+How and where you get the data is up to you. KeyLines does the job of rendering it and responding to user interactions like clicking, touching, moving nodes, etc. You bind to these events to customize what happens.
+Your data stays under your control at all times: KeyLines is self-contained and needs no external connections.
+ 
+==== What kind of data?
+
+
+KeyLines can work on any kind of network - all you need is data with nodes and links.
+ 

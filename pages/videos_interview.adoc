@@ -1,0 +1,13 @@
+== Neo4j interviews
+:type: track
+:path: /learn/videos_interview
+image::http://assets.neo4j.org/img/events/webinar.png[Neo4j interviews,role=thumbnail]
+:prev: videos_webinar
+:next: videos_graphconnect
+:featured: 
+:related: 
+:actionText: Watch them
+
+
+[INTRO]
+Enjoy yourself watching these interviews that we recorded with people who had interesting stories to share. Stories that could be your own, about graph databases, Neo4j and Cypher. Make sure to meet them at the next http://graphconnect.com[GraphConnect] conference.

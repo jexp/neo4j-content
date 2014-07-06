@@ -1,0 +1,10 @@
+== Cypher for SQL professionals
+:type: video
+:path: /c/video/cypher_vs_sql
+:author: mesirii
+image::http://b.vimeocdn.com/ts/418/834/418834053_640.jpg[Cypher for SQL professionals,role=thumbnail]
+:src: http://player.vimeo.com/video/60292144
+
+
+[INTRO]
+If you come from an SQL background it takes a little time to get used to Cypher, but once you got it, there is no way back.

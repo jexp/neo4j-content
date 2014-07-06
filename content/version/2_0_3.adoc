@@ -1,0 +1,12 @@
+== Neo4j Stable Release 2.0.3
+:type: version
+:url: http://neo4j.com/blog/neo4j-2-0-ga-graphs-for-everyone/
+image::http://assets.neo4j.org/img/still/install.gif[Neo4j Stable Release 2.0.3,role=thumbnail]
+:stability: stable
+:version: 2.0.3
+:date: April 30, 2014
+:src: http://player.vimeo.com/video/53838744
+
+
+[INTRO]
+General Availability

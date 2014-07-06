@@ -1,0 +1,7 @@
+== Neo4j on Azure
+:type: link
+:url: http://neo4j.com/blog/announcing-neo4j-on-windows-azure
+
+
+[INTRO]
+In this blog post we will show that it is no problem at all to host a sophisticated and complex server product such as the Neo4j graph database server on Window Azure. Since Neo4j has a remote API over HTTP you can easily connect to the server from your applications.

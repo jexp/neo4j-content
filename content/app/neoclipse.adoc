@@ -1,0 +1,8 @@
+== Neoclipse
+:type: app
+:path: /c/app/neoclipse
+:author: @nawroth
+:url: https://github.com/neo4j-contrib/neoclipse
+image::http://assets.neo4j.org/img/apps/neoclipse.png[Neoclipse,role=logo]
+
+An Eclipse-RCP based visualization and query tool for Neo4j

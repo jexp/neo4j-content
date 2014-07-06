@@ -1,0 +1,14 @@
+== Graph Databases
+:type: book
+:path: /c/book/graphdatabases
+:author: Ian Robinson, Jim Webber
+:url: http://graphdatabases.com
+image::http://assets.neo4j.org/img/books/graphdatabases_thumb.gif[Graph Databases,role=thumbnail]
+image::http://assets.neo4j.org/img/books/graphdatabases_cover.gif[Graph Databases,role=logo]
+:key: graphdatabases
+:price: Free Ebook, Print $29.99
+:actionText: Get your free e-book
+
+
+[INTRO]
+http://graphdatabases.com[First Edition Now Available!] Get the definitive book on graph databases_, published by O&#39;Reilly Media.<br />Graph Databases, published by O’Reilly Media, discusses the problems that are well aligned with graph databases, with examples drawn from practical, real-world use cases. This book also looks at the ecosystem of complementary technologies, highlighting what differentiates graph databases from other database technologies, both relational and NOSQL. Graph Databases is written by Ian Robinson, Jim Webber, and Emil Eifrém, graph experts and enthusiasts at Neo Technology, creators of Neo4j.

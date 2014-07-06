@@ -1,0 +1,11 @@
+== Neo4j-Koans with Dr. Who
+:type: link
+:author: iansrobinson,jimwebber
+:url: https://github.com/jimwebber/neo4j-tutorial#neo4j-koans
+image::http://assets.neo4j.org/img/still/koans_drwho.gif[Neo4j-Koans with Dr. Who,role=thumbnail]
+image::http://assets.neo4j.org/img/still/koans_drwho.png[Neo4j-Koans with Dr. Who,role=img]
+:github: https://github.com/jimwebber/neo4j-tutorial
+
+
+[INTRO]
+This set of Koans provides a hands-on tutorial for learning the Neo4j open source graph database. It's part of a more comprehensive tutorial often presented by the authors and others.

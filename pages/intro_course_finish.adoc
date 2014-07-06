@@ -1,0 +1,9 @@
+== Neo4j Online Course
+:type: page
+:path: /learn/intro_course_finish
+:featured: [object Object]
+:related: 
+
+
+[INTRO]
+You successfully finished the Neo4j online course

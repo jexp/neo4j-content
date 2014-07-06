@@ -1,0 +1,8 @@
+== Beginning with Neo4j and Neo4jClient
+:type: link
+:author: CameronJTinker
+:url: http://www.cameronjtinker.com/post/2013/01/04/Beginning-with-Neo4j-and-Neo4jClient.aspx
+
+
+[INTRO]
+I will try my best to include everything necessary to get started with Neo4j, Windows and c# using Neo4jClient.

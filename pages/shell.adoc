@@ -1,0 +1,9 @@
+== The awesome Neo4j Shell
+:type: page
+:path: /develop/shell
+:featured: 
+:related: [object Object],[object Object],[object Object]
+
+
+[INTRO]
+Neo4j's shell allows you to issue Cypher statements, export and import subgraphs navigate and update the graph using a set of commands that remind of a unix shell. It is available both on the command line and in the Neo4j-Server web-ui.

@@ -1,0 +1,8 @@
+== Neo4j White Papers
+:type: link
+:url: http://www.neotechnology.com/resources/
+image::http://www.neotechnology.com/wp-content/uploads/2013/02/WP_FTSL-125x160.png[Neo4j White Papers,role=thumbnail]
+
+
+[INTRO]
+Whitepapers about Graph Databases, Big Data, Scaling, Licensing and more.

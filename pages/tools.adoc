@@ -1,0 +1,10 @@
+== Tools and Resources
+:type: page
+:path: /develop/tools
+image::http://assets.neo4j.org/img/still/cypher.png[Tools and Resources,role=thumbnail]
+:featured: [object Object]
+:related: drivers,try,neoclipse,visualize,jee
+
+
+[INTRO]
+There are a lot of tools and resources around Neo4j.

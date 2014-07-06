@@ -1,0 +1,10 @@
+== Windows 8 Installation
+:type: video
+:path: /c/video/windows
+:author: peterneubauer
+image::http://assets.neo4j.org/img/still/neo4j_install_windows8.gif[Windows 8 Installation,role=thumbnail]
+:src: http://player.vimeo.com/video/63158030
+
+
+[INTRO]
+Installing Neo4j on Windows 8 requires a few steps which are outlined in this video.

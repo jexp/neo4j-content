@@ -1,0 +1,11 @@
+== The Neo4j Online Course
+:type: page
+:path: /learn/education
+image::http://assets.neo4j.org/img/still/graphistas_map.png[The Neo4j Online Course,role=thumbnail]
+:featured: 
+:related: 
+:actionText: Attend the course
+
+
+[INTRO]
+The Neo4j Online course offers the wildly successful Neo4j Tutorial for you to take whenever and wherever you want.

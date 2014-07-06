@@ -1,0 +1,9 @@
+== API JavaDoc
+:type: link
+:url: http://docs.neo4j.org/chunked/milestone/javadocs/
+image::http://assets.neo4j.org/img/languages/java.jpg[API JavaDoc,role=thumbnail]
+:actionText: Browse JavaDoc
+
+
+[INTRO]
+Check out the Java API of the current milestone.

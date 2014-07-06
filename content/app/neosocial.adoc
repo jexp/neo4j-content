@@ -1,0 +1,8 @@
+== Neosocial
+:type: app
+:path: /c/app/neosocial
+:author: @maxdemarzi
+:url: http://maxdemarzi.com/2012/08/17/neosocial-connecting-to-facebook-with-neo4j/
+image::http://assets.neo4j.org/img/apps/neosocial.png[Neosocial,role=logo]
+
+Neosocial: Connecting to Facebook with Neo4j

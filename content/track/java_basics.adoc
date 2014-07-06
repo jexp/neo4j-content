@@ -1,0 +1,12 @@
+== undefined
+:type: track
+:path: /c/track/java_basics
+
+
+The Neo4j Java API is very easy to use. You can interact with the GraphDatabase, Nodes and Relationships directly. To run more interesting queries or complex operations you can also execute link:/java/java_cypher[Cypher] from your program.
+ 
+After including Neo4j in your project and link:/java/ide[setting up your IDE]. See the Hello-World example below for getting started.
+ 
+==== Adding the Neo4j dependencies to your project
+
+ <% include ../download/_embedded_dependency %><div class="markdown"> <%-: content.java_hello_world | asciidoc %></div>

@@ -1,0 +1,9 @@
+== Setting up a Neo4j maven project in Eclipse
+:type: link
+:url: http://neo4j.com/blog/how-to-set-up-a-maven-project-with-neo4j-in-eclipse/
+image::http://assets.neo4j.org/img/logo/eclipse.jpg[Setting up a Neo4j maven project in Eclipse,role=thumbnail]
+:actionText: Read the blog
+
+
+[INTRO]
+A blog post on how to set up a new project with Neo4j in Java using Eclipse

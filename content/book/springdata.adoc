@@ -1,0 +1,11 @@
+== Spring Data
+:type: book
+:path: /c/book/springdata
+:author: Jon Brisbin, Oliver Gierke, Thomas Risberg, Mark Pollack, Michael Hunger
+:url: http://shop.oreilly.com/product/0636920024767.do
+image::http://assets.neo4j.org/img/books/spring_data.png[Spring Data,role=logo]
+:price: Ebook $23.99, Print $29.99
+
+
+[INTRO]
+This book shows you how Spring’s data access framework can help you connect to either non-relational or relational databases, or a combination of the two.

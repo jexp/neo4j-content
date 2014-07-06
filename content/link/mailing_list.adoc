@@ -1,0 +1,10 @@
+== Neo4j Google Group
+:type: link
+:url: http://groups.google.com/group/neo4j
+image::http://assets.neo4j.org/img/logo/googlegroups.png[Neo4j Google Group,role=thumbnail]
+:key: mailing_list
+:actionText: Join now
+
+
+[INTRO]
+Share your experiences and expertise with fellow graphistas. Visit these groups for http://groups.google.com/group/neo4jfr[French] and http://groups.google.com/group/neo4jes[Spanish] postings.

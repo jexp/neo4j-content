@@ -1,0 +1,10 @@
+== Cypher-Neo4j-JDBC driver
+:type: page
+:path: /develop/tools/jdbc
+:author: rickardoberg,mesirii
+:featured: [object Object]
+:related: [object Object],[object Object],jee
+
+
+[INTRO]
+The Neo4j Driver offers quick integration into existing Java applications and a variety of tools. It supports the Neo4j Server, embedded and in-memory databases.

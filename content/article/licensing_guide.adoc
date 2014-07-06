@@ -1,0 +1,21 @@
+== Pragmatic licensing guide
+:type: article
+:url: http://www.neotechnology.com/price-list/
+:actionText: Neo4j Editions
+image::http://assets.neo4j.org/img/still/neo4j_bundles.png[Pragmatic licensing guide,role=img]
+
+
+[INTRO]
+Understand which license you need and how Neo Technology can help you.
+Free community and personal editions, affordable startup package and comprehensive offerings for medium businesses and large enterprises alike.
+Neo4j has been powering large-scale mission-critical production applications since 2003. Today it powers a wide diversity of applications: from small startups to global mission-critical systems.
+ 
+Neo4j is licensed under a dual-license arrangement: with a Community Edition licensed under the GPL, and an Enterprise Edition optimized for closed-source development. Enterprise Edition is licensed on a subscription basis for commercial use, or under the AGPL for open source projects contributing to the open source commons. In addition to a commercial license, commercial subscriptions also include professional support, certified releases, access to the Neo4j partner network, and of course http://www.neotechnology.com/price-list/[Enterprise features].
+ 
+There are two main editions of Neo4j:
+ 
+* *Neo4j Community*, an Open-Source High Performance, fully ACID transactional graph database 
+* *Neo4j Enterprise* adds production capabilities - High Performance Cache, Horizontal scalability with Neo4j Clustering, High-availability Clustering and online backups, Cache based sharding, and Advanced Monitoring 
+ 
+Commercial Licenses include the permission to integrate the enterprise edition in closed-source or production level software products, service and support by Neo Technology.
+ The Enterprise edition is available in different http://www.neotechnology.com/price-list/[bundles tailored to your needs]. From a free personal bundle for individual usage, a startup and small business package to a comprehensive offering for medium and large enterprises. 

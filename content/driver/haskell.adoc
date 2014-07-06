@@ -1,0 +1,9 @@
+== Haskell Cypher
+:type: driver
+:path: /c/driver/haskell
+:author: @bogiebro
+:tags: haskell,rest
+:url: http://hackage.haskell.org/package/cypher-0.8
+image::http://assets.neo4j.org/img/languages/haskell.png[Haskell Cypher,role=logo]
+
+Haskell Cypher makes it easy to send cypher commands to neo4j servers over the REST API. Additionally, it allows users to parse haskell datatypes from cypher queries.

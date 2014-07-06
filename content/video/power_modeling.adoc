@@ -1,0 +1,10 @@
+== Modelling with Graphs
+:type: video
+:path: /c/video/power_modeling
+:author: Alistair Jones
+image::http://www.neotechnology.com/wp-content/uploads/2012/05/Screen-Shot-2012-05-16-at-2.38.21-PM-300x192.png[Modelling with Graphs,role=thumbnail]
+:src: http://www.youtube.com/embed/XzDNw2y0QEM
+
+
+[INTRO]
+Modelling data as graphs is quite different from modelling data under with relational databases. In this talk we'll cover modelling business domains using graphs.

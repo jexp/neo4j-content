@@ -1,0 +1,9 @@
+== neo4j.rb
+:type: driver
+:path: /c/driver/neo4j_rb
+:author: @ronge
+:tags: ruby,jvm,ogm
+:url: https://github.com/andreasronge/neo4j
+image::http://assets.neo4j.org/img/languages/rails.png[neo4j.rb,role=logo]
+
+Ruby on Rails? Try coasting along graph paths with Neo4j. Everything you know and love, wrapped with graph glory.

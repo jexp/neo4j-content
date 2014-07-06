@@ -1,0 +1,9 @@
+== Importing data into Neo4j
+:type: page
+:path: /develop/import
+:featured: [object Object]
+:related: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],jdbc,geoff
+
+
+[INTRO]
+The first thing you need to get started is to import data from various sources into Neo4j. Fortunately there are a number of ways to do that.If you have your data in a relational database, spreadsheet or somewhere else, you can get it in into the graph database. Importing data into Neo4j is now easier than ever. Loading graph data from a CSV file with <code>LOAD CSV</code> from Cypher is easy enough, but you can also create Cypher statements in a variety of ways, which you can then run using the link:/tracks/neo4j_server[Neo4j Browser] or the link:/develop/tools/shell[Neo4j-Shell]. Programmatically any of the link:/drivers[drivers] can be used (e.g. the link:/develop/tools/jdbc[JDBC-Driver], which you can also use from within existing ETL-Tools). For high performance, high volume imports you'd look for the CSV-batch-importer.

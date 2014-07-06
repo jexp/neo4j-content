@@ -1,0 +1,10 @@
+== Neo4j with Clojure
+:type: page
+:path: /develop/clojure
+image::http://assets.neo4j.org/img/languages/clojure.png[Neo4j with Clojure,role=thumbnail]
+:featured: [object Object]
+:related: [object Object],[object Object],michaelklishin
+
+
+[INTRO]
+Clojure is a great language and fits very well with the graph concepts and lazy evaluation

@@ -1,0 +1,10 @@
+== Neo4j and Scala
+:type: page
+:path: /develop/scala
+image::http://assets.neo4j.org/img/languages/scala.png[Neo4j and Scala,role=thumbnail]
+:featured: [object Object]
+:related: [object Object],[object Object],wefreema,[object Object],[object Object],[object Object],[object Object],[object Object]
+
+
+[INTRO]
+Parts of Neo4j, esp. the Cypher query engine are written in Scala, the more we're happy about the great Scala support

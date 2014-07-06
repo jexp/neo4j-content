@@ -1,0 +1,10 @@
+== Importing Sample Datasets
+:type: video
+:path: /c/video/importing_sample_data
+:author: peterneubauer
+image::http://assets.neo4j.org/img/still/import_sample_data.gif[Importing Sample Datasets,role=thumbnail]
+:src: http://player.vimeo.com/video/53867161
+
+
+[INTRO]
+Quick guide on how to set up an installed Neo4j server with prepared datasets

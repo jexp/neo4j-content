@@ -1,0 +1,10 @@
+== Participate
+:type: page
+:path: /participate
+image::http://assets.neo4j.org/img/still/graphistas_map.png[Participate,role=thumbnail]
+:featured: 
+:related: [object Object],events,[object Object],contributors,[object Object],[object Object],trainings,channels,graphistas_map,beer,music,[object Object]
+
+
+[INTRO]
+Connect with a friendly, engaging, and ever expanding community online or in person.

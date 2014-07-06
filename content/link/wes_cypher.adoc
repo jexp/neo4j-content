@@ -1,0 +1,9 @@
+== Wes Freeman's Cypher Tutorials and Commentary
+:type: link
+:path: /c/link/wes_cypher
+:author: wefreema
+:url: http://wes.skeweredrook.com/cypher/
+
+
+[INTRO]
+Wes' Cypher page with introductory articles, links to resources and the 'Ask Wes' section.

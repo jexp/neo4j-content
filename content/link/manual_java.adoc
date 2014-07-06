@@ -1,0 +1,9 @@
+== Manual: the Java Tutorial
+:type: link
+:url: http://docs.neo4j.org/chunked/milestone/tutorials-java-embedded.html
+image::http://assets.neo4j.org/img/languages/java.jpg[Manual: the Java Tutorial,role=thumbnail]
+:actionText: Go to the manual
+
+
+[INTRO]
+In the tutorial you will find everything needed — from setting up the environment to doing something useful with your data.

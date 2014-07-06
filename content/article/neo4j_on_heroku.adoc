@@ -1,0 +1,21 @@
+== Hosted Neo4j on Heroku (GrapheneDB)
+:type: article
+:path: /c/article/neo4j_on_heroku
+image::[Hosted Neo4j on Heroku (GrapheneDB),role=thumbnail]
+image::http://assets.neo4j.org/img/still/graphenedb.png[Hosted Neo4j on Heroku (GrapheneDB),role=img]
+
+
+[INTRO]
+
+As a platform-as-a-service (PAAS) provider, http://heroku.com[Heroku] offers a quick way from your locally developed app to a managed deployment in the cloud. The ability of adding different hosted services is crucial for the daily needs of a modern day web-application. To run a Neo4j graph powered app on Heroku you can easily add the https://devcenter.heroku.com/articles/graphenedb[GrapheneDB Neo4j Add-on]. 
+
+==== Add Neo4j to your Heroku Application
+
+ 
+After installing the https://toolbelt.heroku.com[Heroku toolbelt], it is as easy as: 
+. Create an application: <code>heroku apps:create your-app-name</code></li> 
+. Add the Database Add-on: <code>heroku addons:add graphenedb</code></li> 
+. Open the Add-On Administration page: <code>heroku addons:open graphenedb</code></li> 
+. Show the your app's environment variables: <code>heroku config</code></li> 
+. Use <code>ENV["GRAPHENEDB_URL"]</code> or <code>System.getenv("GRAPHENEDB_URL")</code> to access the Neo4j Server with one of the link:'/develop/drivers[language drivers]</li> 
+ 

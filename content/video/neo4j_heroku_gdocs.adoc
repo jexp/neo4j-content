@@ -1,0 +1,9 @@
+== Screencast: Integrate Neo4j, Heroku and Google Docs
+:type: video
+:path: /c/video/neo4j_heroku_gdocs
+image::http://vidcaster-media.s3.amazonaws.com/sites/145/videos/67656/freeze/thumbs/120x6816U7J.jpg[Screencast: Integrate Neo4j, Heroku and Google Docs,role=thumbnail]
+:src: http://video.neo4j.org/player/U4Yq
+
+
+[INTRO]
+A screencast about http://neo4j.com/blog/neo4j-labs-heroku-neo4j-and-google[deploying an application using the Neo4j add-on on Heroku] to expose a readonly Cypher endpoint. Then integrating with a Google Spreadsheet for querying and rendering of the results.

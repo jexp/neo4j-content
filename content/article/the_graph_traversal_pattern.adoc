@@ -1,0 +1,9 @@
+== The Graph Traversal Pattern
+:type: article
+:author: Marko Rodriguez, Peter Neubauer
+:url: http://arxiv.org/abs/1004.1001
+:actionText: Read more
+
+
+[INTRO]
+This article discusses the graph traversal pattern and its use in computing.

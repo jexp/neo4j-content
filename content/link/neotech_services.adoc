@@ -1,0 +1,8 @@
+== Consulting Services
+:type: link
+:url: http://www.neotechnology.com/neo4j-professional-services/
+image::http://assets.neo4j.org/img/logo/neotechnology_small.png[Consulting Services,role=thumbnail]
+
+
+[INTRO]
+We offer a variety of consulting services around Neo4j through our network of professional partners. Services range from setup and operations support, data modeling consulting, performance tuning to proof of concept development

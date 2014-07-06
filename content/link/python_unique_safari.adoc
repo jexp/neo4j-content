@@ -1,0 +1,9 @@
+== Managing Neo4j Uniqueness with Py2neo
+:type: link
+:author: technige
+:url: http://blog.safaribooksonline.com/2013/08/07/managing-uniqueness-with-py2neo/
+image::http://assets.neo4j.org/img/logo/safari-logo.png[Managing Neo4j Uniqueness with Py2neo,role=thumbnail]
+
+
+[INTRO]
+In the context of Neo4j, it may be necessary to ensure that individual nodes are unique within a particular context; or there may be more complex uniqueness requirements across paths or subgraphs.

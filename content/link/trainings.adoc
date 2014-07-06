@@ -1,0 +1,10 @@
+== Neo4j full day trainings
+:type: link
+:path: /c/link/trainings
+:url: http://www.neotechnology.com/2013/01/neo4j-tutorials-going-global/
+image::http://assets.neo4j.org/img/events/training.png[Neo4j full day trainings,role=thumbnail]
+image::http://www.neotechnology.com/wp-content/uploads/2013/03/tutorials_0305313.png[Neo4j full day trainings,role=img]
+
+
+[INTRO]
+Get to know Neo4j at this introductory, full day training covering, graph-databases, use-cases and cypher.

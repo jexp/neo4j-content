@@ -1,0 +1,12 @@
+== Neocons
+:type: driver
+:path: /c/driver/neocons
+:author: @michaelklishin
+:tags: clojure,rest,jvm
+:url: http://clojureneo4j.info/
+image::http://assets.neo4j.org/img/languages/clojure.png[Neocons,role=logo]
+:docs: http://clojureneo4j.info/articles/getting_started.html
+:source: https://github.com/michaelklishin/neocons
+:forum: https://groups.google.com/forum/#!forum/clojure-neo4j
+
+An idiomatic, feature rich Clojure client which supports (almost) all Neo4J REST API features and is constantly tested against bleeding edge server changes, like the Cypher language improvements. 

@@ -1,0 +1,7 @@
+== Neo4j Stable Release 1.6.3
+:type: version
+:url: http://neo4j.com/blog/released-neo4j-1-6-ga-jorn-kniv/
+:stability: stable
+:version: 1.6.3
+:date: May 28, 2012
+

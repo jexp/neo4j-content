@@ -1,0 +1,13 @@
+== Neo4j GraphConnect recordings
+:type: track
+:path: /learn/videos_graphconnect
+image::http://assets.neo4j.org/img/logo/graphconnect.png[Neo4j GraphConnect recordings,role=thumbnail]
+:prev: videos_interview
+:next: videos_other
+:featured: 
+:related: 
+:actionText: Watch them
+
+
+[INTRO]
+Enjoy watching these session recordings from our http://graphconnect.com[GraphConnect] about graphs, graph databases, Neo4j and applications using them conference. Hope you are there next time too.

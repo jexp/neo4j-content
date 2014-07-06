@@ -1,0 +1,10 @@
+== High Availability with Neo4j
+:type: video
+:path: /c/video/high_availability
+:author: Andreas Kollegger
+image::https://secure-b.vimeocdn.com/ts/304/073/304073737_295.jpg[High Availability with Neo4j,role=thumbnail]
+:src: https://player.vimeo.com/video/43797268
+
+
+[INTRO]
+Learn about Neo4j High Availability (HA). This webinar will explain the benefits, use cases, and basic operational procedures for: Why organizations choose Neo4j HA; Scaling performance to meet demand; Deployment scenarios, best practices; How to prepare for Disaster Recovery

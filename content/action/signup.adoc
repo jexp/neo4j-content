@@ -1,0 +1,9 @@
+== Sign up for Neo4j
+:type: action
+:path: /c/action/signup
+image::[Sign up for Neo4j,role=thumbnail]
+
+
+[INTRO]
+For the best developer experience, subscribe and stay informed about events,
+ releases and technical articles on graphs and development with Neo4j. <iframe class='newsletter' style='visibility:visible;margin-left:-10px;width:15em;' src='' style='border:0;padding: 5;' width='300px' height='75px' frameborder='0' scrolling='no'></iframe>

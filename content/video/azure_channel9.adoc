@@ -1,0 +1,9 @@
+== Neo4j, the Open Source Java graph database, and Windows Azure
+:type: video
+:path: /c/video/azure_channel9
+image::http://assets.neo4j.org/img/still/neo4j_azure_channel9.gif[Neo4j, the Open Source Java graph database, and Windows Azure,role=thumbnail]
+:src: http://channel9.msdn.com/Blogs/Interoperability/Neo4j-the-Open-Source-Java-graph-database-and-Windows-Azure/player
+
+
+[INTRO]
+This segment we talk about Neo4j, the open source graph database, on Windows Azure. We discuss the project, getting up on the cloud with Windows Azure and what's coming.

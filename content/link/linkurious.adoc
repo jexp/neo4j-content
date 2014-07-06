@@ -1,0 +1,24 @@
+== Linkurio.us Neo4j Graph Visualization
+:type: link
+:url: http://linkurio.us/
+image::http://linkurio.us/wp-content/uploads/2012/11/linkurious-239x60-tr.png[Linkurio.us Neo4j Graph Visualization,role=thumbnail]
+image::http://linkurio.us/wp-content/uploads/2012/11/linkurious-screenshot-22-halo.jpg[Linkurio.us Neo4j Graph Visualization,role=img]
+
+
+[INTRO]
+Neo4j Partner Linkurious helps you make sense of your graph data through a simple web-based interface based on an open-source back-end that connects to your Neo4j Database.
+==== Connect
+
+
+Our Open Source backend indexes your graph so you can connect with it on Linkurious and get started in minutes. When it is done, launch the web application of Linkurious.
+ 
+==== Search
+
+
+Typing any keyword in the search bar brings up all the related data in one step. We provide a console for advanced queries so you can be as broad or as specific as you want.
+ 
+==== Explore
+
+
+By focusing on the items related to your search, visualizing and exploring your graph has never been easier. Dig further in any direction using the connected nodes and make sense of your data.
+ 

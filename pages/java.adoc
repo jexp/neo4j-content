@@ -1,0 +1,13 @@
+== Neo4j for Java devs
+:type: track
+:path: /develop/java
+image::http://assets.neo4j.org/img/languages/java.jpg[Neo4j for Java devs,role=thumbnail]
+:actionText: Start
+:next: java_basics,jvm
+:prev: server_plugins
+:featured: [object Object]
+:related: spring,neo4j_server,[object Object],[object Object],jee
+
+
+[INTRO]
+The Java track covers the Neo4j Core-API as well as interacting with the Neo4j Server from Java and other JVM languages.

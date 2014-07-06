@@ -1,0 +1,8 @@
+== Partners Graph
+:type: link
+:url: http://www.neotechnology.com/partners/
+image::http://assets.neo4j.org/img/logo/neotechnology_small.png[Partners Graph,role=thumbnail]
+
+
+[INTRO]
+Neo Technology works with a large, worldwide partner network which provide local consulting and training services.

@@ -1,0 +1,20 @@
+== Neo4j Hosting with GrapheneDB
+:type: link
+:path: /c/link/graphenedb
+:author: graphenedb
+:url: http://graphenedb.com
+image::http://www.graphenedb.com/images/logo.png[Neo4j Hosting with GrapheneDB,role=thumbnail]
+:actionText: Check out GrapheneDB
+image::http://assets.neo4j.org/img/still/graphenedb.png[Neo4j Hosting with GrapheneDB,role=img]
+
+
+[INTRO]
+GrapheneDB offers comprehensive hosting plans for Neo4j, taking care of the operational aspects of running a graph database.
+*GrapheneDB is also available as free https://addons.heroku.com/graphenedb[Heroku Add-On] in Beta*
+The platform supports Neo4j Community Edition versions 1.8, 1.9 and 2.0. Sandbox databases are free of charge and with 512MB storage, support of the Neo4j API, including REST traversals and Gremlin.
+ Paid plans are dedicated instances running on Amazon with following features:
+ 
+* Hosting in any AWS region</li> 
+* Online, automated daily backups and manual snapshots</li> 
+* 24x7 monitoring and alerts</li> 
+* Support for provided and custom plugins and extensions</li> 

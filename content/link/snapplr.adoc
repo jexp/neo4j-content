@@ -1,0 +1,12 @@
+== OpenStreetMap import for Malmö, Sweden (14.7MB)
+:type: link
+:path: /c/link/snapplr
+:author: peterneubauer
+:url: https://snapplr.herokuapp.com
+:github: https://github.com/neo4j/spatial
+image::http://assets.neo4j.org/img/still/snapplr.png[OpenStreetMap import for Malmö, Sweden (14.7MB),role=img]
+:actionText: Test now
+
+
+[INTRO]
+An import of the Open Streetmap data for the Malmö area, used in the Snapplr example application. http://example-data.neo4j.org/files/malmo.db.zip[<span class='icon-download-alt'>&nbsp;</span>]

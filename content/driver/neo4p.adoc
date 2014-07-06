@@ -1,0 +1,9 @@
+== REST::Neo4p
+:type: driver
+:path: /c/driver/neo4p
+:author: @thinkinator
+:tags: perl,rest
+:url: https://metacpan.org/release/REST-Neo4p
+image::http://assets.neo4j.org/img/languages/perl.png[REST::Neo4p,role=logo]
+
+Works with the Neo4j's REST by using Perl5 objects in a Perl person's favorite way.

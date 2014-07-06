@@ -1,0 +1,12 @@
+== Everyone loves music... And graphs
+:type: page
+:path: /misc/music
+image::http://assets.neo4j.org/img/still/LazyIcon.png[Everyone loves music... And graphs,role=thumbnail]
+:featured: [object Object],[object Object]
+:related: [object Object],[object Object]
+:actionText: Go play some music
+
+
+[INTRO]
+Music is everywhere, and there is rich set of connections between artists, songs, albums, labels, publishers, users, ratings, stations, etc.
+Everyone loves to listen to music and many people enjoy creating music. There is a rich ecosystem and community around music data which is intricately connected and fits perfectly into a graph database.

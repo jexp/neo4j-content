@@ -1,0 +1,10 @@
+== Stack Overflow
+:type: link
+:url: http://stackoverflow.com/questions/tagged/neo4j
+image::http://assets.neo4j.org/img/logo/stackoverflow.png[Stack Overflow,role=thumbnail]
+:key: stack_overflow
+:actionText: Ask Neo4j questions
+
+
+[INTRO]
+For getting answers to concrete questions about API usage, Neo4j configuration, cypher syntax etc. please post to Stack Overflow.

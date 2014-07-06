@@ -1,0 +1,9 @@
+== GraphViz
+:type: video
+:path: /c/video/graphviz
+image::http://docs.neo4j.org/chunked/snapshot/images/graphdb-indexes.svg.png[GraphViz,role=thumbnail]
+
+
+[INTRO]
+
+Using the GraphViz Exporter it is possible to generate <code>.dot</code> files which can then be rendered as images using graphviz' dot toolchain. See this http://neo4j.com/blog/graph-this-rendering-your-graph-with[blog post] for details.

@@ -1,0 +1,12 @@
+== neomodel
+:type: driver
+:path: /c/driver/neomodel
+:author: @robsmoniker
+:tags: python,rest,ogm
+:url: https://github.com/robinedwards/neomodel
+image::https://raw.github.com/robinedwards/neomodel/master/art/neomodel-148.png[neomodel,role=logo]
+:site: http://skillsmatter.com/podcast/nosql/case-study-how-sharehoods-created-neomodel-along-the-way
+:source: https://github.com/robinedwards/neomodel
+:docs: https://github.com/robinedwards/neomodel/blob/master/README.rst
+
+An Object Graph Mapper (OGM) for the neo4j graph database built on top of py2neo

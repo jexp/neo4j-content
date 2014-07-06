@@ -1,0 +1,8 @@
+== Creating a MapDB Schema Index Provider for Neo4j 2.0
+:type: link
+:author: mesirii
+:url: http://jexp.de/blog/2013/05/on-creating-a-mapdb-schema-index-provider-for-neo4j-2-0/
+
+
+[INTRO]
+Neo4j 2.0 introduced the concept of real automatic indexes with a new underlying indexing subsystem SPI. So I thought it would be really helpful to try it out and provide a faster indexing implementation than the default lucene one. I chose http://www.mapdb.org/[MapDB] for it and the results are https://github.com/jexp/neo4j-mapdb-index[here on github].
